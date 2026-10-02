@@ -9,6 +9,14 @@ authors:
     given-names: John G.
     affiliation: Maynooth University
     orcid: "https://orcid.org/0000-0002-5063-2773"
+doi: "10.5281/zenodo.23108981"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23108981"
+    description: "This version (1.0.0)"
+  - type: doi
+    value: "10.5281/zenodo.23108980"
+    description: "All versions (resolves to the latest)"
 license: CC-BY-4.0
 repository-code: "https://github.com/JKeatingMU/commuting-to-college"
 url: "https://jkeatingmu.github.io/commuting-to-college/"
@@ -30,6 +38,7 @@ preferred-citation:
       orcid: "https://orcid.org/0000-0002-5063-2773"
   publisher:
     name: Maynooth University
+  doi: "10.5281/zenodo.23108981"
   url: "https://jkeatingmu.github.io/commuting-to-college/"
 keywords:
   - higher education

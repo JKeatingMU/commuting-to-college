@@ -1,5 +1,7 @@
 # Commuting to College
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23108980.svg)](https://doi.org/10.5281/zenodo.23108980)
+
 **Accessibility, cost, emissions and choice for higher education in Leinster**
 
 > This is individual research and analysis by John G. Keating. It is not an official Maynooth University publication, and it
@@ -13,6 +15,8 @@ of day, and compares the result with census journeys and with where new entrants
 
 - **Read the report:** https://jkeatingmu.github.io/commuting-to-college/
 - **Cite it:** see [How to cite](#how-to-cite) and `CITATION.cff`
+- **DOI:** [10.5281/zenodo.23108980](https://doi.org/10.5281/zenodo.23108980) (all versions, resolves to the latest);
+  version 1.0.0: [10.5281/zenodo.23108981](https://doi.org/10.5281/zenodo.23108981)
 - **Version:** 1.0.0 (2026-10-02). Data snapshot 27 August 2026; enrolment data 30 August 2026; fares as from January 2027.
 
 ## What is in the report
@@ -73,7 +77,7 @@ Details and attribution: `DATA-LICENCE.md` and `docs/DATA-SOURCES.md`.
 
 ## How to cite
 
-Keating, J. G. (2026). *Commuting to College: Accessibility, Cost, Emissions and Choice for Higher Education in Leinster* (Version 1.0.0) [Data set and report]. Maynooth University. (DOI assigned on release through Zenodo). Individual research and analysis, not an official Maynooth University publication.
+Keating, J. G. (2026). *Commuting to College: Accessibility, Cost, Emissions and Choice for Higher Education in Leinster* (Version 1.0.0) [Data set and report]. Maynooth University. https://doi.org/10.5281/zenodo.23108981. Individual research and analysis, not an official Maynooth University publication.
 
 ## Contact
 

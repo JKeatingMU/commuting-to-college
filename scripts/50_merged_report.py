@@ -25,7 +25,9 @@ from sections.common import APP_JS, BASE_CSS, FONTS, MU, county_shapes, ed_table
 SECTION_MODS = [cost, carbon, choice, reach, burden, validation]
 DUBLIN_AREA = {"Dublin City", "Dún Laoghaire-Rathdown", "Fingal", "South Dublin", "Kildare"}
 BORDER_MIDLAND = {"Carlow", "Kilkenny", "Laois", "Longford", "Louth", "Monaghan", "Offaly", "Westmeath"}
-VERSION = "0.9 draft"
+VERSION = "1.0.0"
+CONCEPT_DOI = "10.5281/zenodo.23108980"   # all versions; resolves to the latest
+VERSION_DOI = "10.5281/zenodo.23108981"   # this version (1.0.0)
 
 
 def _pct(x):
@@ -98,7 +100,7 @@ def about_html(md: str) -> str:
 
 def main() -> None:
     table = ed_table()
-    data = {"h": headlines(), "version": VERSION,
+    data = {"h": headlines(), "version": VERSION, "doi": VERSION_DOI,
             "snapshot": "27 August 2026 (HEA extracts 30 August 2026)",
             "fare_year": getattr(C, "FARE_YEAR", 2027), "analysis_date": C.ANALYSIS_DATE.strftime("%-d %B %Y")}
     b = section_bundle(SECTION_MODS)
@@ -109,6 +111,7 @@ def main() -> None:
             .replace("/*__FONTS__*/", FONTS)
             .replace("/*__BASE_CSS__*/", BASE_CSS + b["css"])
             .replace("<!--__MAINS__-->", mains)
+            .replace("__CONCEPT_DOI__", CONCEPT_DOI).replace("__VERSION_DOI__", VERSION_DOI)
             .replace("<!--__ABOUT__-->", about_html(about_markdown(data["h"])))
             .replace("/*__DATA__*/", json_script(data))
             .replace("/*__TABLE__*/", json_script(table))
@@ -249,9 +252,10 @@ _TEMPLATE = r"""<!doctype html>
   <div class="m-merged">
     <h2 id="m-cite">How to cite</h2>
     <div class="cite" id="cite"></div>
-    <p class="note">A permanent DOI will be assigned through Zenodo when version 1.0 is released; until then please cite
-      the version shown and the date you accessed it. This is individual research and analysis, not an official Maynooth University
-      publication.</p>
+    <p class="note">The DOI above identifies this version; <a href="https://doi.org/__CONCEPT_DOI__">__CONCEPT_DOI__</a> always
+      resolves to the latest version. Archived on <a href="https://doi.org/__VERSION_DOI__">Zenodo</a> with the code and data;
+      source at <a href="https://github.com/JKeatingMU/commuting-to-college">github.com/JKeatingMU/commuting-to-college</a>.
+      This is individual research and analysis, not an official Maynooth University publication.</p>
     <h2 id="m-about">About this analysis</h2>
     <div class="methods" id="m-aboutBody">
 <!--__ABOUT__-->
@@ -515,7 +519,7 @@ function methodsInit(){
   if (methodsDone) return; methodsDone = true;
   const T = APP.T();
   document.getElementById("cite").textContent =
-    `Keating, J. G. (2026). Commuting to College: Accessibility, Cost, Emissions and Choice for Higher Education in Leinster (Version ${D.version}). Maynooth University. https://jkeatingmu.github.io/commuting-to-college/`;
+    `Keating, J. G. (2026). Commuting to College: Accessibility, Cost, Emissions and Choice for Higher Education in Leinster (Version ${D.version}). Maynooth University. https://doi.org/${D.doi}`;
   document.getElementById("m-overviewBody").innerHTML = `
     <p><b>The question.</b> How long, how costly and how carbon-heavy is the daily journey from home to a higher-education
     campus for the young people of Leinster, and does it shape where they enrol? The study measures <i>potential</i>

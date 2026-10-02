@@ -23,12 +23,11 @@ import openpyxl
 import config as C
 
 merged = importlib.import_module("50_merged_report")
+VERSION, CONCEPT_DOI, VERSION_DOI = merged.VERSION, merged.CONCEPT_DOI, merged.VERSION_DOI
 
-VERSION = "1.0.0"
-DATE = dt.date.today().isoformat()
+DATE = "2026-10-02"   # release date of VERSION
 REPO = "JKeatingMU/commuting-to-college"
 PAGES_URL = f"https://{REPO.split('/')[0].lower()}.github.io/{REPO.split('/')[1]}/"
-DOI = None   # set once Zenodo mints it
 
 DEST = C.ROOT / "release"
 TEMPLATE = C.ROOT / "release_template"
@@ -93,7 +92,7 @@ def attribution() -> str:
 
 
 def citation_text() -> str:
-    doi = f" https://doi.org/{DOI}" if DOI else " (DOI assigned on release through Zenodo)"
+    doi = f" https://doi.org/{VERSION_DOI}"
     return (f"Keating, J. G. (2026). *Commuting to College: Accessibility, Cost, Emissions and Choice for Higher "
             f"Education in Leinster* (Version {VERSION}) [Data set and report]. Maynooth University.{doi}. Individual research and analysis, not an "
             f"official Maynooth University publication.")
@@ -137,7 +136,7 @@ def manifest() -> str:
 
 
 def fill(text: str) -> str:
-    for k, v in {"VERSION": VERSION, "DATE": DATE, "REPO": REPO, "PAGES_URL": PAGES_URL,
+    for k, v in {"VERSION": VERSION, "DATE": DATE, "CONCEPT_DOI": CONCEPT_DOI, "VERSION_DOI": VERSION_DOI, "REPO": REPO, "PAGES_URL": PAGES_URL,
                  "ATTRIBUTION": attribution(), "CITATION_TEXT": citation_text()}.items():
         text = text.replace("{" + k + "}", v)
     left = re.findall(r"\{[A-Z_]+\}", text)
