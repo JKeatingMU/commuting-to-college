@@ -14,6 +14,7 @@ import datetime as dt
 import hashlib
 import re
 import shutil
+import zipfile
 
 import importlib
 
@@ -104,7 +105,18 @@ def strip_school_contacts(src, dst) -> None:
         hdr = {c.value: c.column for c in ws[2] if c.value}
         for name in sorted(SCHOOL_CONTACT_COLS & set(hdr), key=lambda n: -hdr[n]):
             ws.delete_cols(hdr[name])
+    fixed = dt.datetime(2026, 10, 2)
+    wb.properties.created = wb.properties.modified = fixed
     wb.save(dst)
+    # openpyxl stamps the current time into the zip entries; rewrite them with a fixed time so the
+    # file, and its checksum in MANIFEST.md, are identical on every build
+    with zipfile.ZipFile(dst) as z:
+        entries = [(i.filename, z.read(i.filename)) for i in z.infolist()]
+    with zipfile.ZipFile(dst, "w", zipfile.ZIP_DEFLATED) as z:
+        for name, data in entries:
+            if name == "docProps/core.xml":   # openpyxl sets "modified" to now at save time
+                data = re.sub(rb"(<dcterms:modified[^>]*>)[^<]*", rb"\g<1>2026-10-02T00:00:00Z", data)
+            z.writestr(zipfile.ZipInfo(name, date_time=fixed.timetuple()[:6]), data, zipfile.ZIP_DEFLATED)
     left = {c.value for ws in openpyxl.load_workbook(dst).worksheets for c in ws[2]}
     assert not (SCHOOL_CONTACT_COLS & left), "contact columns survived"
 
