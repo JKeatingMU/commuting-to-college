@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below. This is individual research and analysis, not an official Maynooth University publication."
+type: dataset
+title: "Commuting to College: Accessibility, Cost, Emissions and Choice for Higher Education in Leinster"
+version: "1.0.0"
+date-released: "2026-10-02"
+authors:
+  - family-names: Keating
+    given-names: John G.
+    affiliation: Maynooth University
+    orcid: "https://orcid.org/0000-0002-5063-2773"
+license: CC-BY-4.0
+repository-code: "https://github.com/JKeatingMU/commuting-to-college"
+url: "https://jkeatingmu.github.io/commuting-to-college/"
+abstract: >-
+  Models weekday commutes by public transport and by car from 1,197 Electoral Divisions in 15 Leinster counties to
+  14 higher-education campuses, at two times of day, with the annual cost and carbon of each journey, its
+  distribution by area deprivation and car availability, a validation against Census 2022 journeys, and a
+  county-scale model of whether accessibility predicts where new entrants enrol. Individual research and analysis, not an official
+  Maynooth University publication. Code MIT; derived tables ODbL 1.0; report CC BY 4.0.
+preferred-citation:
+  type: report
+  title: "Commuting to College: Accessibility, Cost, Emissions and Choice for Higher Education in Leinster"
+  version: "1.0.0"
+  year: 2026
+  authors:
+    - family-names: Keating
+      given-names: John G.
+      affiliation: Maynooth University
+      orcid: "https://orcid.org/0000-0002-5063-2773"
+  publisher:
+    name: Maynooth University
+  url: "https://jkeatingmu.github.io/commuting-to-college/"
+keywords:
+  - higher education
+  - accessibility
+  - commuting
+  - public transport
+  - Ireland
+  - student choice

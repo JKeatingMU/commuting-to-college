@@ -1,0 +1,1198 @@
+id,name,county,cohort_17_19,dep_score,hh,hh_nocar,nocar_share,dep_band
+267028,Blanchardstown-Blakestown,Fingal,2095,3.06,12039.0,949.0,0.0788,2
+267100,Lucan-Esker,South Dublin,1890,6.45,9209.0,579.0,0.0629,2
+167065,Navan Rural,Meath,1576,-1.08,9856.0,981.0,0.0995,1
+087071,Naas Urban,Kildare,1002,7.95,8542.0,687.0,0.0804,2
+267092,Glencullen,Dún Laoghaire-Rathdown,960,11.63,7216.0,767.0,0.1063,3
+267040,Castleknock-Knockmaroon,Fingal,751,10.69,6551.0,392.0,0.0598,3
+147019,Dundalk Rural (South),Louth,903,-7.59,6526.0,1519.0,0.2328,1
+267002,Balbriggan Rural,Fingal,1077,-0.17,5607.0,727.0,0.1297,1
+097063,Kilkenny Rural,Kilkenny,862,0.53,6145.0,706.0,0.1149,2
+087066,Maynooth,Kildare,577,11.13,5521.0,611.0,0.1107,3
+267140,Tallaght-Jobstown,South Dublin,1001,-8.15,5135.0,1044.0,0.2033,1
+107079,Portlaoighise Rural,Laois,741,-2.78,5015.0,554.0,0.1105,1
+267103,Lucan-St. Helens,South Dublin,581,8.53,5029.0,411.0,0.0817,2
+087064,Leixlip,Kildare,584,4.85,5458.0,424.0,0.0777,2
+167082,St. Mary'S,Meath,734,6.23,5013.0,230.0,0.0459,2
+087069,Morristownbiller,Kildare,784,1.45,5046.0,498.0,0.0987,2
+087023,Celbridge,Kildare,711,5.88,5118.0,348.0,0.068,2
+267132,Swords-Forrest,Fingal,590,5.61,5003.0,414.0,0.0828,2
+017010,Carlow Rural,Carlow,661,-2.21,5019.0,639.0,0.1273,1
+257051,Kilmacanoge,Wicklow,664,1.1,4663.0,460.0,0.0986,2
+167025,Donaghmore,Meath,512,4.25,4418.0,327.0,0.074,2
+267158,The Ward,Fingal,664,5.53,3189.0,208.0,0.0652,2
+268071,Grange A,Dublin City,451,3.18,3768.0,575.0,0.1526,2
+267084,Firhouse Village,South Dublin,573,4.43,3757.0,194.0,0.0516,2
+268006,Ashtown A,Dublin City,301,9.6,4251.0,815.0,0.1917,2
+267133,Swords-Lissenhall,Fingal,519,3.54,3660.0,389.0,0.1063,2
+257048,Kilcoole,Wicklow,511,6.55,3775.0,201.0,0.0532,2
+187087,Tullamore Urban,Offaly,423,-6.74,4060.0,923.0,0.2273,1
+167078,Ratoath,Meath,707,6.15,3407.0,108.0,0.0317,2
+087050,Kildare,Kildare,550,-2.99,3575.0,513.0,0.1435,1
+237079,Mullingar Rural,Westmeath,544,-0.71,3560.0,279.0,0.0784,1
+267099,Kinsaley,Fingal,375,7.14,3446.0,287.0,0.0833,2
+167038,Julianstown,Meath,556,-0.24,3448.0,399.0,0.1157,1
+267050,Clondalkin-Monastery,South Dublin,373,-1.91,3723.0,596.0,0.1601,1
+267138,Tallaght-Fettercairn,South Dublin,561,-7.46,3120.0,690.0,0.2212,1
+267049,Clondalkin-Dunawley,South Dublin,565,-12.15,3370.0,639.0,0.1896,0
+267147,Tallaght-Springfield,South Dublin,327,-5.34,3516.0,1011.0,0.2875,1
+267029,Blanchardstown-Coolmine,Fingal,475,-5.42,3280.0,635.0,0.1936,1
+267118,Rush,Fingal,545,1.74,3348.0,294.0,0.0878,2
+267065,Donabate,Fingal,552,8.5,3467.0,291.0,0.0839,2
+147014,Fair Gate,Louth,331,-8.59,3855.0,1257.0,0.3261,1
+147035,St. Peter'S,Louth,637,-1.01,3271.0,347.0,0.1061,1
+267104,Lusk,Fingal,563,2.77,3101.0,183.0,0.059,2
+257004,Arklow No. 1 Urban,Wicklow,475,-7.17,3651.0,698.0,0.1912,1
+167029,Dunboyne,Meath,416,6.6,3003.0,163.0,0.0543,2
+268108,North Dock B,Dublin City,241,8.52,2974.0,1539.0,0.5175,2
+257077,Wicklow Rural,Wicklow,498,2.76,3108.0,222.0,0.0714,2
+267143,Tallaght-Kiltipper,South Dublin,492,-6.85,2749.0,430.0,0.1564,1
+267053,Clondalkin Village,South Dublin,342,-2.61,2976.0,390.0,0.131,1
+267085,Firhouse-Ballycullen,South Dublin,365,11.76,2849.0,100.0,0.0351,3
+167090,Trim Rural,Meath,396,1.43,2896.0,229.0,0.0791,2
+267066,Dubber,Fingal,349,3.28,2415.0,441.0,0.1826,2
+087025,Clane,Kildare,349,6.09,2890.0,173.0,0.0599,2
+267123,Skerries,Fingal,379,5.15,2978.0,322.0,0.1081,2
+267078,Dundrum-Balally,Dún Laoghaire-Rathdown,200,8.21,3036.0,801.0,0.2638,2
+147025,Haggardstown,Louth,335,5.13,2955.0,187.0,0.0633,2
+087047,Kilcock,Kildare,342,5.87,2552.0,168.0,0.0658,2
+267105,Malahide East,Fingal,316,9.61,2867.0,230.0,0.0802,2
+267095,Howth,Fingal,317,6.99,2964.0,258.0,0.087,2
+167030,Dunshaughlin,Meath,283,7.98,2643.0,107.0,0.0405,2
+257039,Greystones,Wicklow,333,9.21,2769.0,204.0,0.0737,2
+267003,Balbriggan Urban,Fingal,349,-4.7,2753.0,603.0,0.219,1
+267004,Baldoyle,Fingal,285,3.19,2789.0,404.0,0.1449,2
+237004,Athlone East Rural,Westmeath,296,-2.17,2479.0,403.0,0.1626,1
+268143,South Dock,Dublin City,111,11.48,2997.0,1777.0,0.5929,3
+087034,Droichead Nua (Newbridge) Urban,Kildare,241,-5.3,2754.0,646.0,0.2346,1
+257027,Delgany,Wicklow,338,10.11,2462.0,164.0,0.0666,3
+267131,Swords-Glasmore,Fingal,330,-0.58,2351.0,258.0,0.1097,1
+187036,Edenderry Urban,Offaly,373,-9.1,2323.0,396.0,0.1705,1
+267080,Dundrum-Sandyford,Dún Laoghaire-Rathdown,256,7.63,2739.0,381.0,0.1391,2
+267109,Palmerston West,South Dublin,383,-10.14,2037.0,332.0,0.163,0
+268042,Clontarf East B,Dublin City,201,10.28,2603.0,357.0,0.1371,3
+257078,Wicklow Urban,Wicklow,288,-4.49,2610.0,440.0,0.1686,1
+267051,Clondalkin-Moorfield,South Dublin,314,-15.18,1994.0,462.0,0.2317,0
+268072,Grange B,Dublin City,189,5.26,2288.0,508.0,0.222,2
+268104,Mountjoy A,Dublin City,157,-4.08,1541.0,1186.0,0.7696,1
+257081,Bray No. 2,Wicklow,234,4.85,2341.0,508.0,0.217,2
+147043,St. Mary'S (Part),Louth,375,-2.45,2139.0,316.0,0.1477,1
+268106,North City,Dublin City,120,6.43,1368.0,1122.0,0.8202,2
+267134,Swords-Seatown,Fingal,272,7.4,2174.0,181.0,0.0833,2
+147042,Dundalk No. 4 Urban,Louth,220,-6.5,2461.0,553.0,0.2247,1
+087029,Donaghcumper,Kildare,292,7.07,2116.0,144.0,0.0681,2
+257017,Bray No. 3,Wicklow,199,0.5,2388.0,396.0,0.1658,2
+267027,Blanchardstown-Abbotstown,Fingal,217,2.24,1751.0,256.0,0.1462,2
+147034,West Gate,Louth,261,-11.8,2281.0,682.0,0.299,0
+268138,Rotunda A,Dublin City,159,0.74,1506.0,1130.0,0.7503,2
+107078,Portarlington South,Laois,328,-3.17,2096.0,279.0,0.1331,1
+267041,Castleknock-Park,Fingal,165,11.01,2103.0,184.0,0.0875,3
+267088,Foxrock-Carrickmines,Dún Laoghaire-Rathdown,264,10.87,2106.0,72.0,0.0342,3
+268070,Grace Park,Dublin City,198,6.31,2198.0,426.0,0.1938,2
+267119,Saggart,South Dublin,189,2.91,1461.0,147.0,0.1006,2
+267112,Rathcoole,South Dublin,197,5.24,1843.0,131.0,0.0711,2
+267001,Airport,Fingal,103,6.69,1354.0,381.0,0.2814,2
+268132,Rathmines West A,Dublin City,86,13.7,2588.0,1454.0,0.5618,3
+267020,Blackrock-Carysfort,Dún Laoghaire-Rathdown,178,11.11,2004.0,222.0,0.1108,3
+177058,Monaghan Rural,Monaghan,288,-5.36,1997.0,288.0,0.1442,1
+267097,Killiney South,Dún Laoghaire-Rathdown,251,-4.84,2062.0,336.0,0.1629,1
+087067,Monasterevin,Kildare,216,-2.09,1932.0,222.0,0.1149,1
+268058,Drumcondra South A,Dublin City,123,11.87,2102.0,558.0,0.2655,3
+167028,Duleek,Meath,303,-4.46,1759.0,156.0,0.0887,1
+237106,Mullingar North Urban,Westmeath,211,-13.25,1980.0,576.0,0.2909,0
+268008,Ayrfield,Dublin City,217,-6.17,1972.0,376.0,0.1907,1
+267130,Sutton,Fingal,203,4.77,2154.0,206.0,0.0956,2
+268127,Rathfarnham,Dublin City,143,11.89,1886.0,379.0,0.201,3
+097058,Kilculliheen,Kilkenny,234,-0.66,1885.0,177.0,0.0939,1
+268142,Saint Kevin'S,Dublin City,67,8.54,1432.0,918.0,0.6411,2
+267120,Shankill-Rathmichael,Dún Laoghaire-Rathdown,242,5.76,1955.0,151.0,0.0772,2
+268129,Rathmines East B,Dublin City,128,13.88,2199.0,494.0,0.2246,3
+268030,Cabra East A,Dublin City,115,9.18,2062.0,768.0,0.3725,2
+137045,Longford Rural,Longford,255,-10.1,1713.0,312.0,0.1821,0
+267035,Bohernabreena,South Dublin,273,0.58,1609.0,105.0,0.0653,2
+097061,Kilkenny No. 1 Urban,Kilkenny,169,-4.29,2007.0,672.0,0.3348,1
+087052,Kill,Kildare,234,4.47,1763.0,59.0,0.0335,2
+267005,Balgriffin,Fingal,210,1.45,1136.0,104.0,0.0915,2
+268002,Arran Quay B,Dublin City,241,5.91,1284.0,763.0,0.5942,2
+267122,Shankill-Shanganagh,Dún Laoghaire-Rathdown,187,5.76,1883.0,150.0,0.0797,2
+147002,Ardee Urban,Louth,223,-6.56,1891.0,349.0,0.1846,1
+167085,Stamullin,Meath,329,4.24,1573.0,41.0,0.0261,2
+267106,Malahide West,Fingal,185,9.0,1882.0,125.0,0.0664,2
+268113,Pembroke East D,Dublin City,122,6.54,1823.0,559.0,0.3066,2
+267083,Edmondstown,South Dublin,204,1.55,1720.0,168.0,0.0977,2
+267038,Cabinteely-Loughlinstown,Dún Laoghaire-Rathdown,186,13.22,1892.0,216.0,0.1142,3
+107052,Graigue Rural,Laois,284,0.12,1580.0,132.0,0.0835,2
+267007,Ballinteer-Woodpark,Dún Laoghaire-Rathdown,199,8.57,1978.0,150.0,0.0758,2
+268015,Ballymun A,Dublin City,212,-7.27,1437.0,415.0,0.2888,1
+267013,Ballyboden,South Dublin,184,8.67,1760.0,80.0,0.0455,2
+268017,Ballymun C,Dublin City,197,-15.85,1479.0,565.0,0.382,0
+268115,Pembroke West A,Dublin City,85,12.27,2065.0,877.0,0.4247,3
+267031,Blanchardstown-Delwood,Fingal,165,0.8,1709.0,170.0,0.0995,2
+267148,Tallaght-Tymon,South Dublin,168,-13.24,1752.0,333.0,0.1901,0
+268148,Ushers A,Dublin City,39,15.73,1850.0,935.0,0.5054,3
+267039,Cabinteely-Pottery,Dún Laoghaire-Rathdown,183,6.37,1793.0,205.0,0.1143,2
+268022,Beaumont B,Dublin City,141,-3.12,1477.0,236.0,0.1598,1
+087014,Bodenstown,Kildare,268,7.45,1612.0,94.0,0.0583,2
+268140,Royal Exchange A,Dublin City,69,5.86,1059.0,836.0,0.7894,2
+017011,Carlow Urban,Carlow,131,-8.16,1845.0,662.0,0.3588,1
+268110,Pembroke East A,Dublin City,137,0.03,2002.0,783.0,0.3911,2
+237080,Mullingar South Urban,Westmeath,127,-0.76,1844.0,294.0,0.1594,1
+167039,Ceanannas Mór Rural,Meath,204,-1.9,1590.0,129.0,0.0811,1
+268128,Rathmines East A,Dublin City,100,12.1,1957.0,802.0,0.4098,3
+267101,Lucan Heights,South Dublin,186,1.75,1768.0,174.0,0.0984,2
+267150,Templeogue-Kimmage Manor,South Dublin,167,11.3,1694.0,122.0,0.072,3
+268040,Cherry Orchard C,Dublin City,200,-15.62,1320.0,423.0,0.3205,0
+237003,Athlone East Urban,Westmeath,123,-3.52,1728.0,560.0,0.3241,1
+257059,Newcastle Upper,Wicklow,180,2.93,1514.0,101.0,0.0667,2
+267111,Portmarnock South,Fingal,96,8.18,1659.0,154.0,0.0928,2
+187013,Birr Urban,Offaly,185,-9.54,1698.0,333.0,0.1961,1
+268085,Kilmainham C,Dublin City,124,3.02,1821.0,713.0,0.3915,2
+257016,Blessington,Wicklow,216,0.46,1541.0,121.0,0.0785,2
+267107,Newcastle,South Dublin,155,2.39,1355.0,64.0,0.0472,2
+087001,Athy Rural,Kildare,225,-4.81,1430.0,144.0,0.1007,1
+268081,Inns Quay B,Dublin City,119,6.41,1156.0,753.0,0.6514,2
+268105,Mountjoy B,Dublin City,86,4.4,1473.0,1126.0,0.7644,2
+267069,Dun Laoghaire-Glenageary,Dún Laoghaire-Rathdown,150,15.37,1609.0,399.0,0.248,3
+268067,Finglas South B,Dublin City,210,-14.17,1346.0,456.0,0.3388,0
+267146,Tallaght-Oldbawn,South Dublin,132,-6.41,1515.0,187.0,0.1234,1
+167037,Innfield,Meath,201,4.6,1291.0,60.0,0.0465,2
+017051,Tullow Urban,Carlow,187,-9.34,1462.0,232.0,0.1587,1
+267142,Tallaght-Kilnamanagh,South Dublin,131,-6.72,1499.0,133.0,0.0887,1
+268117,Pembroke West C,Dublin City,71,13.82,1596.0,666.0,0.4173,3
+147008,Castletown (South),Louth,194,-10.76,1391.0,266.0,0.1912,0
+267115,Rathfarnham-Hermitage,South Dublin,164,9.56,1551.0,102.0,0.0658,2
+268158,Whitehall B,Dublin City,103,3.03,1542.0,369.0,0.2393,2
+267074,Dun Laoghaire-Sallynoggin West,Dún Laoghaire-Rathdown,137,9.02,1555.0,399.0,0.2566,2
+268099,Merchants Quay B,Dublin City,58,6.24,1432.0,949.0,0.6627,2
+268096,Mansion House A,Dublin City,172,-2.02,1386.0,988.0,0.7128,1
+267144,Tallaght-Kingswood,South Dublin,126,-5.2,1317.0,200.0,0.1519,1
+177016,Carrickmacross Rural,Monaghan,212,-0.93,1398.0,125.0,0.0894,1
+268003,Arran Quay C,Dublin City,60,8.13,1344.0,918.0,0.683,2
+267125,Stillorgan-Kilmacud,Dún Laoghaire-Rathdown,115,11.05,1495.0,140.0,0.0936,3
+268032,Cabra East C,Dublin City,92,4.97,1564.0,753.0,0.4815,2
+187018,Clara,Offaly,181,-7.66,1406.0,214.0,0.1522,1
+147039,St. Lawrence Gate,Louth,134,-3.01,1435.0,235.0,0.1638,1
+267032,Blanchardstown-Mulhuddart,Fingal,225,-4.36,1155.0,208.0,0.1801,1
+087090,Athy East Urban,Kildare,175,-5.29,1534.0,301.0,0.1962,1
+268054,Crumlin D,Dublin City,110,-2.72,1529.0,480.0,0.3139,1
+268010,Ballybough B,Dublin City,65,5.09,1432.0,889.0,0.6208,2
+268112,Pembroke East C,Dublin City,112,12.9,1549.0,252.0,0.1627,3
+268048,Clontarf West C,Dublin City,101,11.06,1509.0,369.0,0.2445,3
+267052,Clondalkin-Rowlagh,South Dublin,161,-22.5,1215.0,348.0,0.2864,0
+268150,Ushers C,Dublin City,109,-2.13,1415.0,795.0,0.5618,1
+167042,Kilbrew,Meath,157,5.18,1189.0,56.0,0.0471,2
+267110,Portmarnock North,Fingal,121,4.04,1381.0,43.0,0.0311,2
+268119,Priorswood C,Dublin City,202,-17.22,1157.0,466.0,0.4028,0
+137043,Longford No. 1 Urban,Longford,160,-19.36,1404.0,626.0,0.4459,0
+268080,Inns Quay A,Dublin City,35,-3.86,878.0,498.0,0.5672,1
+268144,Terenure A,Dublin City,84,12.01,1521.0,332.0,0.2183,3
+267116,Rathfarnham-St. Enda'S,South Dublin,114,5.52,1415.0,116.0,0.082,2
+268074,Grange D,Dublin City,113,-4.38,1405.0,241.0,0.1715,1
+177019,Castleblayney Rural,Monaghan,160,-5.74,1371.0,192.0,0.14,1
+107080,Portlaoighise Urban,Laois,137,-9.71,1477.0,365.0,0.2471,1
+268114,Pembroke East E,Dublin City,93,12.44,1315.0,294.0,0.2236,3
+268126,Raheny-St. Assam,Dublin City,111,10.01,1517.0,219.0,0.1444,3
+268162,Wood Quay B,Dublin City,76,8.98,1472.0,714.0,0.4851,2
+268026,Beaumont F,Dublin City,117,4.02,1295.0,205.0,0.1583,2
+267141,Tallaght-Killinardan,South Dublin,188,-26.09,1137.0,338.0,0.2973,0
+268111,Pembroke East B,Dublin City,125,11.96,1367.0,289.0,0.2114,3
+267151,Templeogue-Limekiln,South Dublin,130,0.33,1372.0,167.0,0.1217,2
+268133,Rathmines West B,Dublin City,63,12.58,1468.0,739.0,0.5034,3
+268100,Merchants Quay C,Dublin City,63,3.25,1242.0,741.0,0.5966,2
+167066,Navan Urban,Meath,94,-6.73,1483.0,453.0,0.3055,1
+268109,North Dock C,Dublin City,76,1.18,1327.0,899.0,0.6775,2
+268046,Clontarf West A,Dublin City,118,5.95,1386.0,226.0,0.1631,2
+267056,Clonskeagh-Belfield,Dún Laoghaire-Rathdown,51,7.28,858.0,383.0,0.4464,2
+268145,Terenure B,Dublin City,85,10.72,1421.0,294.0,0.2069,3
+268031,Cabra East B,Dublin City,89,-2.55,1389.0,510.0,0.3672,1
+268092,Kimmage C,Dublin City,84,9.4,1308.0,403.0,0.3081,2
+268009,Ballybough A,Dublin City,102,-5.55,1308.0,758.0,0.5795,1
+268136,Rathmines West E,Dublin City,103,15.15,1408.0,445.0,0.3161,3
+087048,Kilcullen,Kildare,169,2.88,1207.0,112.0,0.0928,2
+267108,Palmerston Village,South Dublin,103,-1.41,1375.0,218.0,0.1585,1
+267030,Blanchardstown-Corduff,Fingal,150,-14.16,1132.0,239.0,0.2111,0
+267076,Dun Laoghaire-Sandycove,Dún Laoghaire-Rathdown,151,9.45,1363.0,191.0,0.1401,2
+267094,Holmpatrick,Fingal,120,6.72,1218.0,58.0,0.0476,2
+268088,Kilmore A,Dublin City,116,-1.31,1122.0,240.0,0.2139,1
+268065,Finglas North C,Dublin City,131,-1.55,1237.0,248.0,0.2005,1
+268051,Crumlin A,Dublin City,111,-6.74,1363.0,408.0,0.2993,1
+268011,Ballygall C,Dublin City,110,0.84,1273.0,212.0,0.1665,2
+268061,Drumfinn,Dublin City,130,-13.47,1232.0,419.0,0.3401,0
+267019,Blackrock-Booterstown,Dún Laoghaire-Rathdown,108,15.12,1352.0,203.0,0.1501,3
+268041,Clontarf East A,Dublin City,133,5.41,1333.0,272.0,0.2041,2
+268028,Botanic B,Dublin City,91,13.39,1314.0,362.0,0.2755,3
+268012,Ballygall A,Dublin City,100,-6.67,1150.0,286.0,0.2487,1
+187086,Tullamore Rural,Offaly,131,4.72,1111.0,67.0,0.0603,2
+268091,Kimmage B,Dublin City,100,-7.52,1350.0,422.0,0.3126,1
+267086,Firhouse-Knocklyon,South Dublin,103,5.46,1266.0,45.0,0.0355,2
+268094,Kimmage E,Dublin City,99,-2.43,1374.0,395.0,0.2875,1
+267079,Dundrum-Kilmacud,Dún Laoghaire-Rathdown,120,13.68,1261.0,209.0,0.1657,3
+268130,Rathmines East C,Dublin City,113,13.42,1224.0,235.0,0.192,3
+268038,Cherry Orchard A,Dublin City,147,-16.53,654.0,192.0,0.2936,0
+268153,Ushers F,Dublin City,70,1.93,1152.0,412.0,0.3576,2
+147009,Clogher,Louth,165,0.83,1084.0,62.0,0.0572,2
+097062,Kilkenny No. 2 Urban,Kilkenny,89,-1.37,1262.0,308.0,0.2441,1
+237005,Athlone West Urban,Westmeath,94,-10.32,1262.0,438.0,0.3471,0
+268037,Chapelizod,Dublin City,63,7.66,1312.0,340.0,0.2591,2
+267096,Killiney North,Dún Laoghaire-Rathdown,144,10.17,1205.0,70.0,0.0581,3
+268023,Beaumont C,Dublin City,104,0.31,1259.0,297.0,0.2359,2
+268005,Arran Quay E,Dublin City,65,7.16,1422.0,672.0,0.4726,2
+267058,Clonskeagh-Roebuck,Dún Laoghaire-Rathdown,114,12.89,1201.0,139.0,0.1157,3
+087070,Naas Rural,Kildare,121,10.1,1078.0,66.0,0.0612,3
+267034,Blanchardstown-Tyrrelstown,Fingal,273,-11.6,912.0,222.0,0.2434,0
+267145,Tallaght-Millbrook,South Dublin,104,-11.09,1204.0,212.0,0.1761,0
+268060,Drumcondra South C,Dublin City,92,8.75,1207.0,288.0,0.2386,2
+268027,Botanic A,Dublin City,76,8.52,1227.0,323.0,0.2632,2
+147038,Termonfeckin,Louth,177,3.99,997.0,58.0,0.0582,2
+267114,Rathfarnham-Butterfield,South Dublin,118,8.34,1197.0,89.0,0.0744,2
+268160,Whitehall D,Dublin City,57,1.79,1063.0,257.0,0.2418,2
+267127,Stillorgan-Merville,Dún Laoghaire-Rathdown,118,11.53,1138.0,151.0,0.1327,3
+237075,Moate,Westmeath,117,-1.46,1077.0,140.0,0.13,1
+267121,Shankill-Rathsallagh,Dún Laoghaire-Rathdown,129,-5.04,1118.0,195.0,0.1744,1
+268016,Ballymun B,Dublin City,152,-21.58,885.0,412.0,0.4655,0
+268135,Rathmines West D,Dublin City,83,12.09,1318.0,527.0,0.3998,3
+268116,Pembroke West B,Dublin City,59,15.33,1251.0,397.0,0.3173,3
+267021,Blackrock-Central,Dún Laoghaire-Rathdown,108,13.4,1121.0,144.0,0.1285,3
+268063,Finglas North A,Dublin City,122,-19.48,954.0,286.0,0.2998,0
+267044,Churchtown-Nutgrove,Dún Laoghaire-Rathdown,98,-0.04,1133.0,214.0,0.1889,1
+268043,Clontarf East C,Dublin City,133,9.05,1151.0,166.0,0.1442,2
+257065,Rathdrum,Wicklow,131,-1.27,1063.0,107.0,0.1007,1
+257036,Enniskerry,Wicklow,126,6.75,917.0,56.0,0.0611,2
+107072,Mountmellick Urban,Laois,115,-9.31,1170.0,212.0,0.1812,1
+237077,Moydrum,Westmeath,127,5.38,985.0,52.0,0.0528,2
+267117,Rathfarnham Village,South Dublin,91,12.08,1231.0,126.0,0.1024,3
+268056,Crumlin F,Dublin City,88,1.3,1023.0,251.0,0.2454,2
+087002,Athy West Urban,Kildare,147,-16.21,1045.0,276.0,0.2641,0
+087079,Rathangan,Kildare,100,-1.82,1016.0,86.0,0.0846,1
+267017,Blackrock-Monkstown,Dún Laoghaire-Rathdown,95,12.45,1213.0,150.0,0.1237,3
+268082,Inns Quay C,Dublin City,92,0.41,937.0,602.0,0.6425,2
+268073,Grange C,Dublin City,96,-13.84,1052.0,223.0,0.212,0
+137031,Forgney,Longford,75,6.58,116.0,4.0,0.0345,2
+147021,Dunleer,Louth,147,-3.67,970.0,118.0,0.1216,1
+257079,Arklow No. 2 Urban,Wicklow,121,-2.74,1061.0,166.0,0.1565,1
+267059,Clonskeagh-Windy Arbour,Dún Laoghaire-Rathdown,72,11.29,1046.0,164.0,0.1568,3
+268052,Crumlin B,Dublin City,99,-6.45,1107.0,372.0,0.336,1
+147001,Ardee Rural,Louth,155,0.68,955.0,38.0,0.0398,2
+267124,Stillorgan-Deerpark,Dún Laoghaire-Rathdown,124,12.27,962.0,54.0,0.0561,3
+267068,Dun Laoghaire-Glasthule,Dún Laoghaire-Rathdown,109,6.17,1092.0,201.0,0.1841,2
+107001,Abbeyleix,Laois,133,-1.16,1094.0,133.0,0.1216,1
+267126,Stillorgan-Leopardstown,Dún Laoghaire-Rathdown,75,11.47,1110.0,180.0,0.1622,3
+137009,Ballymahon,Longford,126,-6.41,888.0,118.0,0.1329,1
+267156,Terenure-Greentrees,South Dublin,87,4.41,1071.0,146.0,0.1363,2
+268154,Walkinstown A,Dublin City,95,-2.44,819.0,218.0,0.2662,1
+017034,Muinebeag Urban,Carlow,106,-11.73,1114.0,241.0,0.2163,0
+268137,Rathmines West F,Dublin City,68,12.73,1200.0,468.0,0.39,3
+267072,Dun Laoghaire Sallynoggin East,Dún Laoghaire-Rathdown,120,1.07,1041.0,162.0,0.1556,2
+268064,Finglas North B,Dublin City,104,-15.75,990.0,355.0,0.3586,0
+268077,Harmonstown B,Dublin City,116,-0.46,999.0,198.0,0.1982,1
+268055,Crumlin E,Dublin City,95,-7.94,1040.0,377.0,0.3625,1
+268066,Finglas South A,Dublin City,118,-14.71,935.0,294.0,0.3144,0
+268159,Whitehall C,Dublin City,85,4.98,1009.0,290.0,0.2874,2
+268039,Carna,Dublin City,100,-16.67,987.0,345.0,0.3495,0
+087031,Downings,Kildare,143,-0.3,876.0,56.0,0.0639,1
+237068,Kinnegad,Westmeath,166,-1.69,858.0,68.0,0.0793,1
+268035,Cabra West C,Dublin City,72,-6.19,987.0,316.0,0.3202,1
+268157,Whitehall A,Dublin City,98,6.92,1032.0,184.0,0.1783,2
+267015,Ballybrack,Dún Laoghaire-Rathdown,112,-2.03,978.0,95.0,0.0971,1
+268161,Wood Quay A,Dublin City,52,-7.74,1025.0,696.0,0.679,1
+257038,Glenealy,Wicklow,135,1.31,959.0,47.0,0.049,2
+268044,Clontarf East D,Dublin City,107,13.15,975.0,155.0,0.159,3
+268134,Rathmines West C,Dublin City,162,14.28,999.0,359.0,0.3594,3
+268076,Harmonstown A,Dublin City,87,-3.86,1034.0,215.0,0.2079,1
+087033,Droichead Nua (Newbridge) Rural,Kildare,174,6.64,835.0,16.0,0.0192,2
+268007,Ashtown B,Dublin City,63,8.2,1002.0,149.0,0.1487,2
+268062,Edenmore,Dublin City,81,-11.79,947.0,281.0,0.2967,0
+268036,Cabra West D,Dublin City,77,-0.29,1043.0,337.0,0.3231,1
+267149,Templeogue-Cypress,South Dublin,90,7.85,962.0,49.0,0.0509,2
+268122,Priorswood B,Dublin City,133,-28.18,683.0,267.0,0.3909,0
+268139,Rotunda B,Dublin City,52,3.5,375.0,285.0,0.76,2
+167006,Athboy,Meath,103,-2.27,951.0,105.0,0.1104,1
+268123,Priorswood E,Dublin City,120,-11.71,888.0,149.0,0.1678,0
+268131,Rathmines East D,Dublin City,73,13.75,1009.0,305.0,0.3023,3
+268098,Merchants Quay A,Dublin City,58,-4.86,736.0,555.0,0.7541,1
+267082,Dundrum-Taney,Dún Laoghaire-Rathdown,112,7.64,966.0,119.0,0.1232,2
+267113,Rathfarnham-Ballyroan,South Dublin,92,7.84,946.0,76.0,0.0803,2
+268079,Inchicore B,Dublin City,117,-11.88,687.0,255.0,0.3712,0
+267077,Dun Laoghaire-West Central,Dún Laoghaire-Rathdown,63,5.14,1086.0,394.0,0.3628,2
+267036,Cabinteely-Granitefield,Dún Laoghaire-Rathdown,108,6.27,990.0,115.0,0.1162,2
+268057,Decies,Dublin City,101,-15.23,935.0,320.0,0.3422,0
+268004,Arran Quay D,Dublin City,31,1.98,891.0,396.0,0.4444,2
+087055,Kilmeage North,Kildare,129,-1.85,822.0,32.0,0.0389,1
+267081,Dundrum-Sweetmount,Dún Laoghaire-Rathdown,78,11.03,1010.0,197.0,0.195,3
+267037,Cabinteely-Kilbogget,Dún Laoghaire-Rathdown,116,-5.48,897.0,146.0,0.1628,1
+107073,Mountrath,Laois,113,-10.94,874.0,157.0,0.1796,0
+268021,Beaumont A,Dublin City,71,0.89,983.0,185.0,0.1882,2
+268120,Priorswood D,Dublin City,105,-17.65,854.0,276.0,0.3232,0
+268102,Merchants Quay E,Dublin City,48,7.88,654.0,289.0,0.4419,2
+268034,Cabra West B,Dublin City,67,-11.91,998.0,414.0,0.4148,0
+268083,Kilmainham A,Dublin City,66,-10.04,905.0,363.0,0.4011,0
+268084,Kilmainham B,Dublin City,41,9.22,966.0,350.0,0.3623,2
+267024,Blackrock-Stradbrook,Dún Laoghaire-Rathdown,87,6.18,933.0,120.0,0.1286,2
+267026,Blackrock-Williamstown,Dún Laoghaire-Rathdown,98,10.65,868.0,157.0,0.1809,3
+268075,Grange E,Dublin City,90,-7.6,938.0,208.0,0.2217,1
+268101,Merchants Quay D,Dublin City,33,9.85,852.0,257.0,0.3016,2
+268068,Finglas South C,Dublin City,120,-25.05,710.0,239.0,0.3366,0
+087011,Balraheen,Kildare,305,5.09,617.0,16.0,0.0259,2
+268095,Kylemore,Dublin City,95,-15.16,879.0,320.0,0.3641,0
+268078,Inchicore A,Dublin City,72,4.03,882.0,309.0,0.3503,2
+268124,Raheny-Foxfield,Dublin City,105,-1.75,889.0,135.0,0.1519,1
+268089,Kilmore B,Dublin City,101,-17.55,850.0,327.0,0.3847,0
+268069,Finglas South D,Dublin City,132,-17.44,669.0,197.0,0.2945,0
+137013,Caldragh,Longford,114,0.11,830.0,50.0,0.0602,2
+257015,Baltinglass,Wicklow,109,-5.83,825.0,77.0,0.0933,1
+268093,Kimmage D,Dublin City,49,1.69,940.0,272.0,0.2894,2
+268049,Clontarf West D,Dublin City,48,10.33,1020.0,421.0,0.4127,3
+268014,Ballygall D,Dublin City,72,0.04,922.0,179.0,0.1941,2
+267089,Foxrock-Deansgrange,Dún Laoghaire-Rathdown,103,9.77,823.0,33.0,0.0401,2
+107029,Clondarrig,Laois,100,3.12,764.0,52.0,0.0681,2
+087084,Straffan,Kildare,93,9.37,724.0,24.0,0.0331,2
+268050,Clontarf West E,Dublin City,69,8.81,923.0,170.0,0.1842,2
+268156,Walkinstown C,Dublin City,71,0.57,799.0,175.0,0.219,2
+267008,Ballinteer-Broadford,Dún Laoghaire-Rathdown,65,0.44,938.0,76.0,0.081,2
+267025,Blackrock-Templehill,Dún Laoghaire-Rathdown,72,8.16,912.0,215.0,0.2357,2
+267128,Stillorgan-Mount Merrion,Dún Laoghaire-Rathdown,111,11.39,818.0,57.0,0.0697,3
+267048,Clondalkin-Cappaghmore,South Dublin,145,-15.86,645.0,159.0,0.2465,0
+267135,Swords Village,Fingal,53,-0.02,838.0,160.0,0.1909,1
+267098,Kilsallaghan,Fingal,98,-3.29,660.0,49.0,0.0742,1
+267157,Terenure-St. James,South Dublin,72,-8.22,1019.0,172.0,0.1688,1
+268047,Clontarf West B,Dublin City,49,-3.33,982.0,306.0,0.3116,1
+268151,Ushers D,Dublin City,47,5.7,854.0,434.0,0.5082,2
+267067,Dun Laoghaire-East Central,Dún Laoghaire-Rathdown,68,9.63,859.0,270.0,0.3143,2
+147040,Dundalk No. 1 Urban,Louth,55,-12.58,927.0,382.0,0.4121,0
+268053,Crumlin C,Dublin City,75,-1.63,848.0,264.0,0.3113,1
+147016,Dromiskin,Louth,100,-0.31,771.0,45.0,0.0584,1
+167002,Ardbraccan,Meath,107,1.69,720.0,29.0,0.0403,2
+268029,Botanic C,Dublin City,78,10.68,760.0,237.0,0.3118,3
+268020,Ballymun F,Dublin City,68,-0.02,854.0,117.0,0.137,1
+257082,Rathmichael (Bray),Wicklow,107,-16.49,753.0,203.0,0.2696,0
+087017,Carbury,Kildare,100,-3.92,721.0,58.0,0.0804,1
+087082,Robertstown,Kildare,103,-5.72,699.0,68.0,0.0973,1
+097101,Thomastown,Kilkenny,99,-0.28,838.0,119.0,0.142,1
+177017,Carrickmacross Urban,Monaghan,89,-6.97,901.0,204.0,0.2264,1
+268103,Merchants Quay F,Dublin City,59,6.14,816.0,429.0,0.5257,2
+267070,Dun Laoghaire-Monkstown Farm,Dún Laoghaire-Rathdown,64,2.94,848.0,209.0,0.2465,2
+267047,Clondalkin-Ballymount,South Dublin,82,-1.34,604.0,30.0,0.0497,1
+167046,Killaconnigan,Meath,121,-6.95,752.0,43.0,0.0572,1
+267023,Blackrock-Newpark,Dún Laoghaire-Rathdown,77,5.84,749.0,67.0,0.0895,2
+147003,Ballymascanlan,Louth,105,-0.46,695.0,39.0,0.0561,1
+267154,Templeogue Village,South Dublin,70,10.47,816.0,101.0,0.1238,3
+267129,Stillorgan-Priory,Dún Laoghaire-Rathdown,72,11.38,810.0,101.0,0.1247,3
+167041,Kentstown,Meath,126,-2.0,656.0,22.0,0.0335,1
+268125,Raheny-Greendale,Dublin City,72,-5.4,784.0,169.0,0.2156,1
+267153,Templeogue-Osprey,South Dublin,67,2.97,822.0,46.0,0.056,2
+267055,Clonskeagh-Milltown,Dún Laoghaire-Rathdown,101,16.23,715.0,51.0,0.0713,3
+167017,Castlerickard,Meath,137,2.32,653.0,14.0,0.0214,2
+257019,Burgage,Wicklow,109,4.22,630.0,26.0,0.0413,2
+267155,Terenure-Cherryfield,South Dublin,57,1.34,849.0,172.0,0.2026,2
+267010,Ballinteer-Marley,Dún Laoghaire-Rathdown,68,7.62,825.0,46.0,0.0558,2
+167040,Ceanannas Mór Urban,Meath,96,-13.33,860.0,271.0,0.3151,0
+187009,Banagher,Offaly,92,-7.65,726.0,101.0,0.1391,1
+268141,Royal Exchange B,Dublin City,44,-4.34,437.0,334.0,0.7643,1
+267139,Tallaght-Glenview,South Dublin,55,-3.39,810.0,194.0,0.2395,1
+268087,Kilmore D,Dublin City,73,-11.84,740.0,143.0,0.1932,0
+267061,Dalkey Upper,Dún Laoghaire-Rathdown,88,11.61,753.0,49.0,0.0651,3
+167003,Ardcath,Meath,83,-1.61,677.0,31.0,0.0458,1
+267009,Ballinteer-Ludford,Dún Laoghaire-Rathdown,78,3.29,759.0,74.0,0.0975,2
+087008,Ballysax East,Kildare,81,-5.06,671.0,63.0,0.0939,1
+268024,Beaumont D,Dublin City,55,1.61,739.0,82.0,0.111,2
+177059,Monaghan Urban,Monaghan,53,-7.94,735.0,229.0,0.3116,1
+097022,Castlecomer,Kilkenny,78,-4.28,745.0,97.0,0.1302,1
+257058,Newcastle Lower,Wicklow,87,3.5,620.0,34.0,0.0548,2
+087018,Carnalway,Kildare,102,5.81,687.0,32.0,0.0466,2
+237065,Killucan,Westmeath,82,-0.88,649.0,40.0,0.0616,1
+087056,Kilmeage South,Kildare,115,-2.94,623.0,41.0,0.0658,1
+167070,Oldcastle,Meath,103,-7.66,756.0,126.0,0.1667,1
+268155,Walkinstown B,Dublin City,59,0.35,721.0,152.0,0.2108,2
+167026,Donaghpatrick,Meath,97,3.69,598.0,20.0,0.0334,2
+097083,Pilltown,Kilkenny,95,-1.03,705.0,74.0,0.105,1
+267022,Blackrock-Glenomena,Dún Laoghaire-Rathdown,70,12.11,654.0,89.0,0.1361,3
+267152,Templeogue-Orwell,South Dublin,51,5.34,712.0,27.0,0.0379,2
+257005,Aughrim,Wicklow,117,-1.05,635.0,49.0,0.0772,1
+097020,Callan Urban,Kilkenny,77,-7.81,711.0,147.0,0.2068,1
+267045,Churchtown-Orwell,Dún Laoghaire-Rathdown,61,8.69,681.0,66.0,0.0969,2
+187069,Portarlington North,Offaly,85,-6.77,623.0,82.0,0.1316,1
+268025,Beaumont E,Dublin City,58,2.04,745.0,109.0,0.1463,2
+097019,Callan Rural,Kilkenny,84,2.56,591.0,30.0,0.0508,2
+268013,Ballygall B,Dublin City,66,-3.31,632.0,158.0,0.25,1
+267071,Dun Laoghaire-Mount Town,Dún Laoghaire-Rathdown,80,-5.24,664.0,187.0,0.2816,1
+107091,Stradbally,Laois,83,-6.82,699.0,94.0,0.1345,1
+237058,Kilbeggan,Westmeath,73,-3.15,603.0,85.0,0.141,1
+167054,Kilmore,Meath,75,7.24,565.0,16.0,0.0283,2
+268149,Ushers B,Dublin City,67,2.72,495.0,323.0,0.6525,2
+268090,Kimmage A,Dublin City,74,-9.39,673.0,236.0,0.3507,1
+268059,Drumcondra South B,Dublin City,29,7.85,728.0,303.0,0.4162,2
+147006,Castlebellingham,Louth,57,-4.46,657.0,81.0,0.1233,1
+268146,Terenure C,Dublin City,76,11.79,626.0,45.0,0.0719,3
+167053,Kilmessan,Meath,74,4.88,584.0,16.0,0.0274,2
+257080,Bray No. 1,Wicklow,51,-3.99,721.0,240.0,0.3329,1
+257021,Carnew,Wicklow,88,-11.46,670.0,68.0,0.1015,0
+147031,Mullary,Louth,127,6.12,540.0,13.0,0.0241,2
+167079,Rodanstown,Meath,54,11.62,583.0,23.0,0.0395,3
+147011,Collon,Louth,101,1.1,610.0,38.0,0.0623,2
+097048,Graiguenamanagh,Kilkenny,76,-7.05,646.0,97.0,0.1502,1
+268152,Ushers E,Dublin City,53,-5.08,677.0,325.0,0.4801,1
+087019,Carragh,Kildare,122,7.23,529.0,17.0,0.0321,2
+087022,Castledermot,Kildare,83,-3.86,595.0,51.0,0.0857,1
+267012,Ballinteer-Meadowmount,Dún Laoghaire-Rathdown,67,0.43,673.0,105.0,0.156,2
+087010,Ballyshannon,Kildare,107,2.94,557.0,17.0,0.0305,2
+267063,Dalkey-Bullock,Dún Laoghaire-Rathdown,60,8.76,669.0,58.0,0.0867,2
+267091,Garristown,Fingal,103,2.28,502.0,15.0,0.0299,2
+268001,Arran Quay A,Dublin City,34,7.21,566.0,288.0,0.5088,2
+267102,Lucan North,Fingal,117,13.27,453.0,11.0,0.0243,3
+267075,Dun Laoghaire-Salthill,Dún Laoghaire-Rathdown,56,10.52,740.0,187.0,0.2527,3
+267087,Foxrock-Beechpark,Dún Laoghaire-Rathdown,92,11.23,612.0,35.0,0.0572,3
+267057,Clonskeagh-Farranboley,Dún Laoghaire-Rathdown,52,4.04,686.0,171.0,0.2493,2
+268045,Clontarf East E,Dublin City,62,10.39,576.0,59.0,0.1024,3
+237024,Castlelost,Westmeath,88,-4.7,555.0,53.0,0.0955,1
+267160,Turnapin,Fingal,54,2.98,537.0,61.0,0.1136,2
+147020,Dundalk No. 3 Urban,Louth,43,-4.11,684.0,252.0,0.3684,1
+187017,Cappancur,Offaly,88,3.19,544.0,40.0,0.0735,2
+267011,Ballinteer-Meadowbroads,Dún Laoghaire-Rathdown,50,6.4,600.0,56.0,0.0933,2
+267042,Churchtown-Castle,Dún Laoghaire-Rathdown,50,8.97,636.0,132.0,0.2075,2
+268019,Ballymun E,Dublin City,53,4.6,574.0,64.0,0.1115,2
+137029,Meathas Truim,Longford,85,-8.56,454.0,86.0,0.1894,1
+167080,Skreen,Meath,75,6.56,527.0,6.0,0.0114,2
+167081,Slane,Meath,59,-3.46,560.0,56.0,0.1,1
+087026,Cloncurry,Kildare,84,4.06,480.0,13.0,0.0271,2
+267033,Blanchardstown-Roselawn,Fingal,29,-1.38,635.0,69.0,0.1087,1
+257050,Killiskey,Wicklow,60,6.3,547.0,25.0,0.0457,2
+147028,Louth,Louth,82,-1.21,543.0,47.0,0.0866,1
+257071,Tinahely,Wicklow,86,-4.73,574.0,45.0,0.0784,1
+267014,Ballyboghil,Fingal,75,3.48,460.0,24.0,0.0522,2
+177005,Ballybay Rural,Monaghan,68,-5.73,558.0,63.0,0.1129,1
+087006,Ballymore Eustace,Kildare,58,1.03,553.0,31.0,0.0561,2
+097011,Ballyragget,Kilkenny,59,-4.8,532.0,65.0,0.1222,1
+257033,Dunlavin,Wicklow,70,-4.64,500.0,62.0,0.124,1
+268121,Priorswood A,Dublin City,70,-12.54,475.0,69.0,0.1453,0
+177008,Bellanode,Monaghan,63,-3.04,488.0,30.0,0.0615,1
+267090,Foxrock-Torquay,Dún Laoghaire-Rathdown,51,11.35,531.0,22.0,0.0414,3
+097047,Gowran,Kilkenny,84,0.23,504.0,35.0,0.0694,2
+087016,Cadamstown,Kildare,92,3.48,424.0,12.0,0.0283,2
+267136,Tallaght-Avonbeg,South Dublin,61,-17.91,535.0,131.0,0.2449,0
+267060,Dalkey Hill,Dún Laoghaire-Rathdown,49,6.72,594.0,84.0,0.1414,2
+107014,Ballylynan,Laois,86,-2.2,500.0,22.0,0.044,1
+107039,Dangans,Laois,99,-11.84,438.0,58.0,0.1324,0
+107009,Ballybrittas,Laois,51,5.92,431.0,11.0,0.0255,2
+187075,Screggan,Offaly,75,1.65,464.0,21.0,0.0453,2
+237069,Kinturk,Westmeath,73,-11.42,546.0,70.0,0.1282,0
+147018,Drummullagh,Louth,79,-4.37,460.0,33.0,0.0717,1
+147005,Carlingford,Louth,61,-1.42,492.0,52.0,0.1057,1
+257074,Togher,Wicklow,77,-1.35,470.0,28.0,0.0596,1
+187050,Kilcormac,Offaly,55,-11.51,526.0,77.0,0.1464,0
+147032,Rathcor,Louth,59,-1.49,432.0,25.0,0.0579,1
+017031,Leighlinbridge,Carlow,71,-1.55,538.0,61.0,0.1134,1
+267093,Hollywood,Fingal,68,3.67,462.0,17.0,0.0368,2
+167088,Tara,Meath,39,4.3,398.0,6.0,0.0151,2
+268118,Phoenix Park,Dublin City,15,7.03,538.0,231.0,0.4294,2
+097111,Urlingford,Kilkenny,60,-12.98,464.0,75.0,0.1616,0
+167087,Summerhill,Meath,72,-2.58,486.0,44.0,0.0905,1
+267043,Churchtown-Landscape,Dún Laoghaire-Rathdown,61,13.01,483.0,40.0,0.0828,3
+147030,Monasterboice,Louth,63,4.35,475.0,10.0,0.0211,2
+268033,Cabra West A,Dublin City,40,-14.39,519.0,166.0,0.3198,0
+267062,Dalkey-Avondale,Dún Laoghaire-Rathdown,56,8.26,508.0,32.0,0.063,2
+267073,Dun Laoghaire Sallynoggin South,Dún Laoghaire-Rathdown,38,-2.12,603.0,141.0,0.2338,1
+267137,Tallaght-Belgard,South Dublin,44,-7.83,458.0,35.0,0.0764,1
+257003,Arklow Rural,Wicklow,63,-1.4,460.0,16.0,0.0348,1
+147017,Drumcar,Louth,80,0.38,460.0,25.0,0.0543,2
+268086,Kilmore C,Dublin City,67,-19.15,415.0,154.0,0.3711,0
+268107,North Dock A,Dublin City,24,5.23,544.0,238.0,0.4375,2
+187004,Ballyburly,Offaly,56,-6.15,434.0,28.0,0.0645,1
+107044,Durrow,Laois,56,-2.02,458.0,45.0,0.0983,1
+167091,Trim Urban,Meath,32,-6.58,551.0,125.0,0.2269,1
+107018,Borris,Laois,76,-3.78,409.0,56.0,0.1369,1
+107046,Emo,Laois,59,0.33,359.0,13.0,0.0362,2
+137027,Drumlish,Longford,48,-4.16,454.0,27.0,0.0595,1
+147026,Jenkinstown,Louth,92,2.54,389.0,6.0,0.0154,2
+187052,Killeigh,Offaly,67,-0.44,423.0,17.0,0.0402,1
+107083,Rathdowney,Laois,48,-9.96,512.0,88.0,0.1719,1
+267018,Blackrock-Seapoint,Dún Laoghaire-Rathdown,46,11.43,476.0,59.0,0.1239,3
+167048,Killary,Meath,41,0.21,445.0,19.0,0.0427,2
+167024,Culmullin,Meath,40,8.13,369.0,10.0,0.0271,2
+167050,Killeen,Meath,50,4.6,395.0,9.0,0.0228,2
+187040,Ferbane,Offaly,49,-5.32,464.0,32.0,0.069,1
+177002,Anketell Grove,Monaghan,63,-1.38,390.0,13.0,0.0333,1
+167071,Painestown,Meath,52,2.92,402.0,14.0,0.0348,2
+177023,Clones Rural,Monaghan,42,-5.2,471.0,86.0,0.1826,1
+147041,Dundalk No. 2 Urban,Louth,33,-13.22,430.0,161.0,0.3744,0
+087086,Timahoe North,Kildare,55,2.04,371.0,9.0,0.0243,2
+147024,Greenore,Louth,74,1.51,409.0,15.0,0.0367,2
+087004,Ballitore,Kildare,57,-5.01,384.0,29.0,0.0755,1
+177029,Cremartin,Monaghan,55,-1.05,405.0,12.0,0.0296,1
+087009,Ballysax West,Kildare,50,-4.04,383.0,32.0,0.0836,1
+017054,Graigue Urban,Carlow,41,-8.62,436.0,121.0,0.2775,1
+017022,Hacketstown,Carlow,51,-10.24,409.0,48.0,0.1174,0
+087089,Windmill Cross,Kildare,79,-5.55,377.0,24.0,0.0637,1
+187026,Daingean,Offaly,49,-8.56,411.0,69.0,0.1679,1
+017017,Cranemore,Carlow,56,-3.54,359.0,13.0,0.0362,1
+177064,Scotstown,Monaghan,60,-2.97,385.0,15.0,0.039,1
+097085,Pollrone,Kilkenny,32,-7.34,399.0,45.0,0.1128,1
+087074,Nurney,Kildare,55,-2.38,332.0,14.0,0.0422,1
+107015,Ballyroan,Laois,64,1.05,360.0,20.0,0.0556,2
+177048,Inishkeen,Monaghan,49,-3.23,398.0,32.0,0.0804,1
+187042,Geashill,Offaly,55,1.08,396.0,18.0,0.0455,2
+167011,Bective,Meath,65,4.12,359.0,14.0,0.039,2
+087081,Rathmore,Kildare,60,7.36,353.0,5.0,0.0142,2
+097014,Bennettsbridge,Kilkenny,44,-2.99,396.0,29.0,0.0732,1
+177042,Emyvale,Monaghan,49,-3.73,415.0,41.0,0.0988,1
+267064,Dalkey-Coliemore,Dún Laoghaire-Rathdown,39,3.23,455.0,83.0,0.1824,2
+237064,Killua,Westmeath,52,-0.66,365.0,18.0,0.0493,1
+187014,Bracknagh,Offaly,49,-1.4,331.0,16.0,0.0483,1
+167077,Rathmolyon,Meath,50,0.97,365.0,15.0,0.0411,2
+017041,Rathrush,Carlow,68,3.34,318.0,7.0,0.022,2
+097086,Portnascully,Kilkenny,54,-2.72,356.0,25.0,0.0702,1
+167004,Ardmulchan,Meath,52,5.45,349.0,8.0,0.0229,2
+017002,Ballinacarrig,Carlow,46,3.21,382.0,14.0,0.0366,2
+097091,Rathpatrick,Kilkenny,40,-5.47,407.0,24.0,0.059,1
+237022,Castle,Westmeath,41,12.67,389.0,13.0,0.0334,3
+268018,Ballymun D,Dublin City,49,-20.49,279.0,147.0,0.5269,0
+167074,Rathfeigh,Meath,49,4.51,322.0,11.0,0.0342,2
+017013,Clonegall,Carlow,45,-0.28,346.0,15.0,0.0434,1
+167076,Rathmore,Meath,52,0.52,328.0,11.0,0.0335,2
+147007,Castlering,Louth,51,2.7,327.0,16.0,0.0489,2
+167045,Kildalkey,Meath,60,1.08,323.0,15.0,0.0464,2
+097076,Moneenroe,Kilkenny,44,-5.33,375.0,40.0,0.1067,1
+097041,Fiddown,Kilkenny,56,-0.37,359.0,22.0,0.0613,1
+147037,Tallanstown,Louth,39,-7.0,359.0,27.0,0.0752,1
+177041,Drumsnat,Monaghan,44,-6.49,383.0,40.0,0.1044,1
+147023,Faughart,Louth,42,-5.39,306.0,14.0,0.0458,1
+167031,Gallow,Meath,44,5.16,310.0,4.0,0.0129,2
+097082,Paulstown,Kilkenny,62,2.34,323.0,11.0,0.0341,2
+147033,Ravensdale,Louth,55,1.57,332.0,17.0,0.0512,2
+097110,Ullid,Kilkenny,44,-0.5,378.0,20.0,0.0529,1
+137035,Granard Urban,Longford,49,-12.19,354.0,89.0,0.2514,0
+137054,Rathcline,Longford,47,-2.0,369.0,33.0,0.0894,1
+187019,Cloghan,Offaly,36,-8.3,352.0,30.0,0.0852,1
+087075,Oldconnell,Kildare,49,1.51,267.0,10.0,0.0375,2
+187079,Shinrone,Offaly,44,-11.78,370.0,33.0,0.0892,0
+267046,Churchtown-Woodlawn,Dún Laoghaire-Rathdown,39,12.55,357.0,26.0,0.0728,3
+147022,Dysart,Louth,68,3.11,314.0,10.0,0.0318,2
+167018,Castletown,Meath,47,-5.62,326.0,19.0,0.0583,1
+167068,Newtown,Meath,40,2.41,324.0,13.0,0.0401,2
+087040,Gilltown,Kildare,45,4.92,339.0,14.0,0.0413,2
+268097,Mansion House B,Dublin City,13,12.83,214.0,132.0,0.6168,3
+087073,Newtown,Kildare,51,8.78,294.0,3.0,0.0102,2
+177018,Castleblayney Urban,Monaghan,26,-9.12,427.0,131.0,0.3068,1
+177020,Castleshane,Monaghan,49,-0.5,320.0,10.0,0.0312,1
+107019,Borris-In-Ossory,Laois,42,-5.41,361.0,35.0,0.097,1
+177068,Tedavnet,Monaghan,42,-1.98,329.0,11.0,0.0334,1
+107089,Shaen,Laois,32,0.73,312.0,4.0,0.0128,2
+097033,Dunkitt,Kilkenny,45,0.3,357.0,16.0,0.0448,2
+177007,Ballymackney,Monaghan,56,-1.29,313.0,19.0,0.0607,1
+097025,Clogh,Kilkenny,33,-3.69,361.0,38.0,0.1053,1
+087062,Ladytown,Kildare,64,12.0,302.0,2.0,0.0066,3
+087085,Thomastown,Kildare,58,0.91,272.0,8.0,0.0294,2
+097043,Freshford,Kilkenny,38,-8.54,357.0,41.0,0.1148,1
+187012,Birr Rural,Offaly,27,-6.7,336.0,39.0,0.1161,1
+167089,Teltown,Meath,32,0.85,323.0,13.0,0.0402,2
+017025,Kellistown,Carlow,42,3.88,340.0,25.0,0.0735,2
+097002,Aglish,Kilkenny,54,-0.1,333.0,16.0,0.048,1
+177062,Rackwallace,Monaghan,43,1.87,308.0,9.0,0.0292,2
+097051,Jerpoint Church,Kilkenny,37,-3.74,320.0,34.0,0.1062,1
+107028,Clonaslee,Laois,45,-6.9,327.0,27.0,0.0826,1
+017050,Tullow Rural,Carlow,31,3.33,277.0,11.0,0.0397,2
+267159,Tibradden,Dún Laoghaire-Rathdown,24,2.96,273.0,11.0,0.0403,2
+137036,Kilcommock,Longford,48,-4.42,303.0,28.0,0.0924,1
+257047,Kilbride,Wicklow,30,-7.62,283.0,17.0,0.0601,1
+257030,Dunganstown East,Wicklow,28,3.95,285.0,10.0,0.0351,2
+147027,Killanny,Louth,60,-0.3,265.0,12.0,0.0453,1
+087057,Kilpatrick,Kildare,37,-10.53,289.0,7.0,0.0242,0
+177061,Newbliss,Monaghan,39,-4.41,310.0,28.0,0.0903,1
+177069,Tehallan,Monaghan,45,-0.05,299.0,12.0,0.0401,1
+097049,Grange,Kilkenny,40,6.37,278.0,7.0,0.0252,2
+137011,Breanrisk,Longford,50,-3.76,294.0,14.0,0.0476,1
+017036,Nurney,Carlow,35,-1.19,278.0,8.0,0.0288,1
+187063,Monasteroris,Offaly,41,0.71,284.0,9.0,0.0317,2
+187035,Edenderry Rural,Offaly,47,-0.49,239.0,6.0,0.0251,1
+147029,Mansfieldstown,Louth,39,1.48,270.0,11.0,0.0407,2
+097053,Johnstown,Kilkenny,32,-9.31,303.0,36.0,0.1188,1
+147012,Creggan Upper,Louth,37,-8.51,284.0,10.0,0.0352,1
+267006,Ballinascorney,South Dublin,41,-5.24,257.0,36.0,0.1401,1
+087072,Narraghmore,Kildare,47,2.47,251.0,6.0,0.0239,2
+097100,The Rower,Kilkenny,42,2.31,276.0,6.0,0.0217,2
+257054,Lackan,Wicklow,28,3.53,277.0,11.0,0.0397,2
+087030,Donore,Kildare,36,7.29,261.0,5.0,0.0192,2
+017012,Clogrenan,Carlow,29,1.67,278.0,10.0,0.036,2
+167052,Kilmainham,Meath,35,-9.58,291.0,34.0,0.1168,1
+087028,Donadea,Kildare,46,6.29,273.0,5.0,0.0183,2
+097050,Inistioge,Kilkenny,33,-2.82,339.0,23.0,0.0678,1
+107006,Ballickmoyler,Laois,35,3.38,271.0,11.0,0.0406,2
+087076,Oughterard,Kildare,40,4.15,260.0,6.0,0.0231,2
+107042,Doonane,Laois,34,-8.37,284.0,20.0,0.0704,1
+087061,Lackagh,Kildare,44,-0.49,240.0,5.0,0.0208,1
+107026,Castletown,Laois,41,-0.2,276.0,23.0,0.0833,1
+177012,Broomfield,Monaghan,46,0.87,243.0,11.0,0.0453,2
+087087,Timahoe South,Kildare,39,-3.78,231.0,12.0,0.0519,1
+177030,Crossalare,Monaghan,28,-7.82,225.0,21.0,0.0933,1
+187020,Clonbulloge,Offaly,38,-6.68,237.0,13.0,0.0549,1
+237025,Castletown,Westmeath,39,-0.8,260.0,15.0,0.0577,1
+187080,Silverbrook,Offaly,33,8.45,248.0,4.0,0.0161,2
+167069,Nobber,Meath,31,-6.98,276.0,26.0,0.0942,1
+257041,Hollywood,Wicklow,40,3.97,257.0,5.0,0.0195,2
+177044,Enagh,Monaghan,26,-2.3,225.0,13.0,0.0578,1
+137044,Longford No. 2 Urban,Longford,32,0.05,302.0,37.0,0.1225,2
+107071,Mountmellick Rural,Laois,39,2.83,285.0,8.0,0.0281,2
+167009,Ballyconnell,Meath,24,1.45,248.0,7.0,0.0282,2
+237020,Carn,Westmeath,35,2.77,268.0,12.0,0.0448,2
+257012,Ballyarthur,Wicklow,46,-0.84,269.0,17.0,0.0632,1
+087035,Dunfierth,Kildare,32,2.92,252.0,6.0,0.0238,2
+087041,Graney,Kildare,28,1.67,262.0,12.0,0.0458,2
+137049,Moydow,Longford,47,0.16,261.0,11.0,0.0421,2
+097093,Rossinan,Kilkenny,38,0.62,245.0,9.0,0.0367,2
+187034,Durrow,Offaly,34,6.87,244.0,5.0,0.0205,2
+177025,Clontibret,Monaghan,31,-2.96,253.0,7.0,0.0277,1
+167060,Martry,Meath,34,2.83,240.0,6.0,0.025,2
+017038,Rahill,Carlow,35,2.16,262.0,13.0,0.0496,2
+237017,Belvidere,Westmeath,18,3.31,258.0,4.0,0.0155,2
+017004,Ballon,Carlow,42,-1.02,222.0,14.0,0.0631,1
+237006,Auburn,Westmeath,38,4.33,263.0,7.0,0.0266,2
+187025,Cullenwaine,Offaly,21,-1.71,266.0,13.0,0.0489,1
+268147,Terenure D,Dublin City,26,13.5,282.0,23.0,0.0816,3
+177010,Bocks,Monaghan,27,-2.2,240.0,9.0,0.0375,1
+237012,Ballykilmore,Westmeath,39,-3.02,264.0,18.0,0.0682,1
+237023,Castledaly,Westmeath,32,2.61,240.0,13.0,0.0542,2
+087058,Kilrainy,Kildare,42,0.14,228.0,6.0,0.0263,2
+137053,Newtown Forbes,Longford,31,-5.26,283.0,36.0,0.1272,1
+187054,Killoughy,Offaly,26,2.04,248.0,11.0,0.0444,2
+097081,Outrath,Kilkenny,35,1.68,247.0,5.0,0.0202,2
+137017,Cloonee,Longford,38,2.04,256.0,8.0,0.0312,2
+257018,Brockagh,Wicklow,27,0.37,250.0,18.0,0.072,2
+097024,Clara,Kilkenny,18,4.39,198.0,9.0,0.0455,2
+187070,Rahan,Offaly,35,1.16,226.0,7.0,0.031,2
+147004,Barronstown,Louth,42,-1.79,238.0,6.0,0.0252,1
+177032,Dawsongrove,Monaghan,35,-1.87,254.0,19.0,0.0748,1
+167083,Stackallan,Meath,32,2.11,222.0,5.0,0.0225,2
+237052,Heathstown,Westmeath,31,5.32,236.0,8.0,0.0339,2
+177021,Church Hill,Monaghan,31,-4.25,246.0,21.0,0.0854,1
+267016,Balscadden,Fingal,26,2.51,212.0,2.0,0.0094,2
+237076,Mount Temple,Westmeath,36,5.73,228.0,6.0,0.0263,2
+177038,Drumgurra,Monaghan,38,3.72,230.0,8.0,0.0348,2
+187006,Ballycumber,Offaly,35,-1.7,247.0,18.0,0.0729,1
+087049,Kildangan,Kildare,46,5.65,235.0,2.0,0.0085,2
+237013,Ballymore,Westmeath,26,-6.84,252.0,23.0,0.0913,1
+137004,Ardagh East,Longford,26,-0.91,234.0,12.0,0.0513,1
+137037,Kilglass,Longford,35,-4.84,251.0,11.0,0.0438,1
+177031,Currin,Monaghan,30,-3.42,243.0,11.0,0.0453,1
+257061,Ovoca,Wicklow,26,-8.34,243.0,21.0,0.0864,1
+187023,Clonygowan,Offaly,35,-0.27,228.0,5.0,0.0219,1
+187081,Srah,Offaly,26,-14.49,239.0,19.0,0.0795,0
+237101,Tubbrit,Westmeath,32,2.97,245.0,8.0,0.0327,2
+017033,Muinebeag Rural,Carlow,22,1.25,231.0,5.0,0.0216,2
+137016,Cloondara,Longford,36,-4.95,241.0,19.0,0.0788,1
+087083,Skerries,Kildare,44,-7.5,219.0,14.0,0.0639,1
+177054,Kiltybegs,Monaghan,28,2.05,225.0,7.0,0.0311,2
+177039,Drumhillagh,Monaghan,34,-2.91,227.0,10.0,0.0441,1
+177014,Carrickaslane,Monaghan,22,-0.88,226.0,8.0,0.0354,1
+237035,Delvin,Westmeath,44,-4.9,229.0,23.0,0.1004,1
+147010,Clonkeen,Louth,36,1.01,225.0,8.0,0.0356,2
+107012,Ballyfin,Laois,38,5.81,216.0,4.0,0.0185,2
+097064,Kilkieran,Kilkenny,53,9.3,214.0,4.0,0.0187,2
+097068,Kilmaganny,Kilkenny,30,-5.46,253.0,23.0,0.0909,1
+177028,Creeve,Monaghan,29,-4.98,223.0,7.0,0.0314,1
+177034,Donaghmoyne,Monaghan,34,-0.22,216.0,6.0,0.0278,1
+017008,Borris,Carlow,15,-7.43,252.0,47.0,0.1865,1
+167075,Rathkenny,Meath,26,1.22,226.0,8.0,0.0354,2
+087059,Kilrush,Kildare,37,-1.22,206.0,1.0,0.0049,1
+237029,Clonfad,Westmeath,33,-1.36,213.0,18.0,0.0845,1
+257006,Ballinaclash,Wicklow,30,-0.54,222.0,13.0,0.0586,1
+167057,Laracor,Meath,28,1.73,203.0,6.0,0.0296,2
+167034,Grangegeeth,Meath,33,-0.34,215.0,8.0,0.0372,1
+177046,Glaslough,Monaghan,24,1.13,213.0,11.0,0.0516,2
+107031,Clonkeen,Laois,34,0.83,214.0,2.0,0.0093,2
+137002,Aghaboy,Longford,31,-6.25,236.0,19.0,0.0805,1
+177057,Lough Fea,Monaghan,32,-1.41,215.0,12.0,0.0558,1
+177066,Sheskin,Monaghan,39,-6.84,225.0,10.0,0.0444,1
+087080,Rathernan,Kildare,29,-1.45,192.0,7.0,0.0365,1
+167001,Ardagh,Meath,25,-5.68,226.0,12.0,0.0531,1
+097054,Kells,Kilkenny,38,3.88,223.0,7.0,0.0314,2
+147015,Dromin,Louth,35,3.68,207.0,10.0,0.0483,2
+147036,Stabannan,Louth,35,3.2,193.0,8.0,0.0415,2
+097034,Dunmore,Kilkenny,25,9.19,224.0,5.0,0.0223,2
+257060,Oldtown,Wicklow,20,-1.17,225.0,2.0,0.0089,1
+177053,Kilmurry,Monaghan,38,0.15,192.0,11.0,0.0573,2
+187066,Mountheaton,Offaly,99,2.16,169.0,5.0,0.0296,2
+107093,Timahoe,Laois,24,4.65,206.0,3.0,0.0146,2
+087005,Ballybrackan,Kildare,20,-0.97,209.0,8.0,0.0383,1
+187005,Ballycommon,Offaly,21,0.99,206.0,7.0,0.034,2
+177070,Tullycorbet,Monaghan,30,-2.12,224.0,11.0,0.0491,1
+237081,Multyfarnham,Westmeath,22,3.1,215.0,18.0,0.0837,2
+017049,Tinnahinch,Carlow,29,-1.82,235.0,21.0,0.0894,1
+187007,Ballymacwilliam,Offaly,32,-1.04,203.0,6.0,0.0296,1
+137015,Cashel West,Longford,23,-0.51,225.0,10.0,0.0444,1
+017019,Garryhill,Carlow,29,-1.61,210.0,3.0,0.0143,1
+137006,Ballinalee,Longford,23,-4.36,235.0,25.0,0.1064,1
+087042,Grangemellon,Kildare,30,-5.83,221.0,18.0,0.0814,1
+087038,Feighcullen,Kildare,25,-0.74,203.0,17.0,0.0837,1
+087021,Carrigeen,Kildare,23,1.2,220.0,8.0,0.0364,2
+167010,Balrathboyne,Meath,30,-0.31,205.0,9.0,0.0439,1
+087060,Kilteel,Kildare,31,9.14,200.0,3.0,0.015,2
+257067,Shillelagh,Wicklow,33,-2.69,219.0,20.0,0.0913,1
+187067,Moyclare,Offaly,23,-4.31,217.0,8.0,0.0369,1
+107056,Kilcolmanbane,Laois,38,2.67,202.0,8.0,0.0396,2
+257046,Kilbride,Wicklow,22,3.37,196.0,5.0,0.0255,2
+097079,Muckalee,Kilkenny,32,3.42,182.0,4.0,0.022,2
+137007,Ballinamuck East,Longford,35,-7.1,191.0,9.0,0.0471,1
+097057,Kilcolumb,Kilkenny,27,1.96,189.0,4.0,0.0212,2
+167027,Drumcondra,Meath,23,-3.21,206.0,11.0,0.0534,1
+237059,Kilbixy,Westmeath,33,-10.46,223.0,30.0,0.1345,0
+017042,Rathvilly,Carlow,23,-10.83,220.0,24.0,0.1091,0
+017052,Tullowbeg,Carlow,27,-6.27,182.0,11.0,0.0604,1
+097018,Burnchurch,Kilkenny,46,7.54,178.0,5.0,0.0281,2
+177050,Killylough,Monaghan,23,-5.28,192.0,11.0,0.0573,1
+137032,Foxhall,Longford,19,-9.49,224.0,30.0,0.1339,1
+237031,Collinstown,Westmeath,25,-0.34,209.0,19.0,0.0909,1
+017024,Johnstown,Carlow,30,4.64,195.0,6.0,0.0308,2
+237071,Knockdrin,Westmeath,25,1.76,191.0,6.0,0.0314,2
+097097,St. Canice,Kilkenny,31,5.69,194.0,4.0,0.0206,2
+177024,Clones Urban,Monaghan,18,-13.2,257.0,90.0,0.3502,0
+017037,Oldleighlin,Carlow,27,3.81,189.0,7.0,0.037,2
+097096,Shankill,Kilkenny,30,-0.25,190.0,9.0,0.0474,1
+237051,Griffinstown,Westmeath,29,5.52,174.0,5.0,0.0287,2
+107088,Sallyford,Laois,34,3.91,184.0,3.0,0.0163,2
+017035,Myshall,Carlow,28,-3.74,211.0,20.0,0.0948,1
+257062,Powerscourt,Wicklow,17,10.55,174.0,1.0,0.0057,3
+107060,Kilmullen,Laois,24,3.37,180.0,5.0,0.0278,2
+017003,Ballintemple,Carlow,26,1.94,191.0,3.0,0.0157,2
+167005,Ardnamullan,Meath,27,-2.37,190.0,13.0,0.0684,1
+187056,Kinnitty,Offaly,13,-4.44,200.0,12.0,0.06,1
+167051,Killyon,Meath,31,0.24,183.0,6.0,0.0328,2
+167021,Crossakeel,Meath,26,-0.25,185.0,11.0,0.0595,1
+187045,Hammerlane,Offaly,26,1.84,198.0,10.0,0.0505,2
+017021,Grangeford,Carlow,27,1.16,168.0,9.0,0.0536,2
+187041,Gallen,Offaly,29,-16.49,189.0,14.0,0.0741,0
+087046,Kilberry,Kildare,27,-12.85,200.0,21.0,0.105,0
+257029,Donard,Wicklow,28,1.72,200.0,14.0,0.07,2
+137018,Columbkille,Longford,22,-4.54,212.0,21.0,0.0991,1
+167036,Hill Of Down,Meath,13,-2.79,176.0,5.0,0.0284,1
+087007,Ballynadrumny,Kildare,27,-3.79,197.0,14.0,0.0711,1
+237016,Bellanalack,Westmeath,29,2.65,193.0,6.0,0.0311,2
+167043,Kilbride,Meath,22,8.39,174.0,6.0,0.0345,2
+177055,Laragh,Monaghan,30,1.64,185.0,12.0,0.0649,2
+167061,Mellifont,Meath,31,3.32,191.0,3.0,0.0157,2
+177003,Annayalla,Monaghan,24,-3.69,199.0,7.0,0.0352,1
+177036,Drumboory,Monaghan,31,-0.76,166.0,5.0,0.0301,1
+187024,Croghan,Offaly,28,-2.97,171.0,6.0,0.0351,1
+237055,Hopestown,Westmeath,25,6.35,183.0,5.0,0.0273,2
+017044,Shangarry,Carlow,24,1.35,166.0,8.0,0.0482,2
+167008,Ballyboggan,Meath,25,-2.89,163.0,7.0,0.0429,1
+087088,Usk,Kildare,29,0.07,181.0,3.0,0.0166,2
+017016,Corries,Carlow,29,0.9,181.0,5.0,0.0276,2
+097070,Kilmanagh,Kilkenny,28,2.63,183.0,6.0,0.0328,2
+017045,Sliguff,Carlow,20,-0.77,182.0,10.0,0.0549,1
+097089,Rathcoole,Kilkenny,34,10.36,169.0,3.0,0.0178,3
+177045,Figullar,Monaghan,27,2.54,163.0,8.0,0.0491,2
+087024,Churchtown,Kildare,34,-3.8,191.0,9.0,0.0471,1
+237014,Ballynagore,Westmeath,14,-0.87,193.0,10.0,0.0518,1
+187051,Kilcumreragh,Offaly,20,1.24,178.0,11.0,0.0618,2
+167019,Cloghbrack,Meath,22,-4.17,169.0,3.0,0.0178,1
+017014,Clonmore,Carlow,26,-0.42,189.0,9.0,0.0476,1
+177043,Enagh,Monaghan,18,-0.58,174.0,6.0,0.0345,1
+187062,Lusmagh,Offaly,22,1.36,185.0,5.0,0.027,2
+097105,Tullaghanbrogue,Kilkenny,26,4.38,169.0,2.0,0.0118,2
+177013,Caddagh,Monaghan,28,0.32,175.0,7.0,0.04,2
+187030,Doon,Offaly,17,4.85,177.0,4.0,0.0226,2
+097072,Knocktopher,Kilkenny,30,1.23,189.0,4.0,0.0212,2
+237028,Clonarney,Westmeath,26,-2.69,169.0,7.0,0.0414,1
+167032,Galtrim,Meath,25,5.55,169.0,2.0,0.0118,2
+237093,Russellstown,Westmeath,25,3.89,167.0,4.0,0.024,2
+257025,Cronebane,Wicklow,22,-1.96,170.0,9.0,0.0529,1
+097029,Coolcraheen,Kilkenny,24,7.79,188.0,6.0,0.0319,2
+107054,Jamestown,Laois,22,2.79,165.0,6.0,0.0364,2
+137008,Ballinamuck West,Longford,23,-8.65,184.0,12.0,0.0652,1
+097038,Ennisnag,Kilkenny,27,7.34,181.0,3.0,0.0166,2
+017009,Burton Hall,Carlow,31,6.24,164.0,5.0,0.0305,2
+257023,Coolballintaggart,Wicklow,23,-5.51,164.0,9.0,0.0549,1
+177026,Cormeen,Monaghan,17,-5.34,164.0,9.0,0.0549,1
+097032,Dunbell,Kilkenny,18,-1.46,180.0,8.0,0.0444,1
+237087,Raharney,Westmeath,30,-2.47,176.0,14.0,0.0795,1
+097087,Powerstown,Kilkenny,19,-4.65,161.0,11.0,0.0683,1
+267054,Clonmethan,Fingal,25,1.69,151.0,7.0,0.0464,2
+097102,Tiscoffin,Kilkenny,20,5.55,156.0,1.0,0.0064,2
+107016,Barrowhouse,Laois,19,1.41,168.0,4.0,0.0238,2
+177022,Clones,Monaghan,24,-0.1,170.0,5.0,0.0294,1
+237097,Streamstown,Westmeath,23,-4.54,134.0,3.0,0.0224,1
+167073,Rahinstown,Meath,21,-0.9,162.0,7.0,0.0432,1
+097004,Balleen,Kilkenny,21,2.42,164.0,5.0,0.0305,2
+167020,Clonmacduff,Meath,28,2.45,156.0,4.0,0.0256,2
+187039,Ettagh,Offaly,16,3.05,165.0,5.0,0.0303,2
+237091,Riverdale,Westmeath,36,4.28,153.0,5.0,0.0327,2
+177037,Drumcarrow,Monaghan,26,-0.14,154.0,4.0,0.026,1
+167016,Castlekeeran,Meath,17,-5.42,164.0,7.0,0.0427,1
+107077,O'Moresforest,Laois,22,1.36,163.0,3.0,0.0184,2
+237007,Ballinalack,Westmeath,71,-1.33,141.0,8.0,0.0567,1
+137005,Ardagh West,Longford,25,0.99,158.0,7.0,0.0443,2
+257008,Ballinderry,Wicklow,27,3.47,169.0,4.0,0.0237,2
+187022,Clonmore,Offaly,17,-2.32,144.0,9.0,0.0625,1
+177052,Kilmore,Monaghan,24,-0.03,181.0,4.0,0.0221,1
+087037,Dunmurry,Kildare,24,3.63,142.0,7.0,0.0493,2
+087068,Moone,Kildare,17,-0.45,168.0,5.0,0.0298,1
+097095,Shanbogh,Kilkenny,28,0.6,158.0,4.0,0.0253,2
+097077,Mothell,Kilkenny,27,-0.71,162.0,6.0,0.037,1
+257064,Rathdangan,Wicklow,20,1.81,139.0,10.0,0.0719,2
+187076,Seirkieran,Offaly,15,2.24,155.0,5.0,0.0323,2
+107081,Raheen,Laois,27,4.23,140.0,3.0,0.0214,2
+167059,Maperath,Meath,12,-1.05,167.0,9.0,0.0539,1
+257072,Tober,Wicklow,25,2.89,155.0,1.0,0.0065,2
+257031,Dunganstown South,Wicklow,30,-0.32,173.0,10.0,0.0578,1
+237002,Ardnagragh,Westmeath,20,1.87,142.0,9.0,0.0634,2
+237066,Killulagh,Westmeath,28,-0.95,160.0,5.0,0.0312,1
+087027,Cloncurry,Kildare,23,4.75,135.0,4.0,0.0296,2
+137026,Drumgort,Longford,27,-3.96,170.0,10.0,0.0588,1
+137038,Killashee,Longford,30,-1.95,155.0,9.0,0.0581,1
+017046,Tankardstown,Carlow,16,3.1,149.0,4.0,0.0268,2
+097080,Odagh,Kilkenny,15,3.44,155.0,6.0,0.0387,2
+107041,Donore,Laois,23,-1.97,149.0,5.0,0.0336,1
+177047,Greagh,Monaghan,17,0.06,163.0,7.0,0.0429,2
+257032,Dunganstown West,Wicklow,18,6.49,174.0,9.0,0.0517,2
+237084,Owel,Westmeath,10,2.43,163.0,7.0,0.0429,2
+137003,Agharra,Longford,28,-0.15,136.0,5.0,0.0368,1
+017018,Fennagh,Carlow,21,1.02,141.0,3.0,0.0213,2
+097001,Aghaviller,Kilkenny,16,1.52,162.0,7.0,0.0432,2
+097103,Tubbrid,Kilkenny,22,3.29,148.0,6.0,0.0405,2
+237047,Glassan,Westmeath,14,8.74,164.0,5.0,0.0305,2
+257070,The Grange,Wicklow,14,-1.3,157.0,12.0,0.0764,1
+097067,Kilmacar,Kilkenny,24,6.37,152.0,8.0,0.0526,2
+167058,Loughan,Meath,27,-2.6,154.0,13.0,0.0844,1
+017047,Templepeter,Carlow,24,5.6,149.0,5.0,0.0336,2
+237030,Clonlost,Westmeath,21,-1.23,146.0,3.0,0.0205,1
+237063,Killinure,Westmeath,19,10.33,136.0,3.0,0.0221,3
+097099,Templeorum,Kilkenny,22,2.25,155.0,4.0,0.0258,2
+187084,Tinnycross,Offaly,25,3.31,144.0,6.0,0.0417,2
+097028,Coolaghmore,Kilkenny,24,1.43,145.0,5.0,0.0345,2
+257035,Ennereilly,Wicklow,16,4.16,153.0,8.0,0.0523,2
+097031,Danesfort,Kilkenny,22,6.14,166.0,7.0,0.0422,2
+107087,Rossmore,Laois,21,7.33,141.0,5.0,0.0355,2
+257028,Donaghmore,Wicklow,22,0.49,140.0,5.0,0.0357,2
+107007,Ballinakill,Laois,23,-1.34,170.0,17.0,0.1,1
+097008,Ballycallan,Kilkenny,21,-0.34,139.0,6.0,0.0432,1
+087036,Dunmanoge,Kildare,13,0.94,154.0,7.0,0.0455,2
+187073,Rathrobin,Offaly,22,-0.93,147.0,5.0,0.034,1
+187072,Rathfeston,Offaly,26,1.82,141.0,6.0,0.0426,2
+097035,Dunnamaggan,Kilkenny,23,6.6,150.0,5.0,0.0333,2
+017027,Killedmond,Carlow,13,0.91,152.0,5.0,0.0329,2
+017026,Kilbride,Carlow,14,0.63,146.0,1.0,0.0068,2
+167033,Girley,Meath,20,1.62,151.0,9.0,0.0596,2
+167014,Carrickleck,Meath,19,-7.36,150.0,9.0,0.06,1
+107058,Killabban,Laois,21,3.98,149.0,2.0,0.0134,2
+257069,Talbotstown,Wicklow,18,0.92,146.0,2.0,0.0137,2
+087039,Fontstown,Kildare,19,6.34,137.0,5.0,0.0365,2
+187032,Drumcullen,Offaly,24,3.28,137.0,9.0,0.0657,2
+097112,Whitechurch,Kilkenny,15,2.68,154.0,8.0,0.0519,2
+257052,Kilpipe,Wicklow,19,2.55,154.0,3.0,0.0195,2
+017005,Ballyellin,Carlow,17,-4.41,146.0,9.0,0.0616,1
+167035,Grennanstown,Meath,16,-1.52,123.0,5.0,0.0407,1
+237099,Taghmon,Westmeath,25,0.88,134.0,4.0,0.0299,2
+237056,Huntingdon,Westmeath,22,2.44,143.0,2.0,0.014,2
+187048,Kilclonfert,Offaly,26,3.03,128.0,5.0,0.0391,2
+167067,Newcastle,Meath,13,-4.4,148.0,6.0,0.0405,1
+177063,Raferagh,Monaghan,11,-1.71,153.0,12.0,0.0784,1
+167055,Kilskeer,Meath,26,3.86,138.0,3.0,0.0217,2
+107086,Rosenallis,Laois,24,1.7,135.0,3.0,0.0222,2
+087051,Kilkea,Kildare,20,1.21,138.0,7.0,0.0507,2
+167015,Castlejordan,Meath,24,-7.29,139.0,8.0,0.0576,1
+107008,Ballyadams,Laois,30,5.23,131.0,6.0,0.0458,2
+237046,Gaybrook,Westmeath,15,6.59,131.0,2.0,0.0153,2
+177056,Lisnaveane,Monaghan,26,-4.79,145.0,6.0,0.0414,1
+017032,Marley,Carlow,24,2.88,118.0,4.0,0.0339,2
+097065,Killahy,Kilkenny,16,-1.13,160.0,12.0,0.075,1
+237041,Enniscoffey,Westmeath,23,2.97,146.0,4.0,0.0274,2
+087053,Killashee,Kildare,12,13.91,122.0,2.0,0.0164,3
+107047,Errill,Laois,28,-7.16,148.0,16.0,0.1081,1
+187071,Raheenakeeran,Offaly,16,-4.24,140.0,12.0,0.0857,1
+097074,Listerlin,Kilkenny,16,1.55,129.0,3.0,0.0233,2
+097010,Ballyhale,Kilkenny,15,-1.91,162.0,14.0,0.0864,1
+097069,Kilmakevoge,Kilkenny,15,2.66,146.0,7.0,0.0479,2
+167084,Staholmog,Meath,18,-3.44,136.0,5.0,0.0368,1
+167063,Moylagh,Meath,12,-1.13,159.0,5.0,0.0314,1
+107025,Castlecuffe,Laois,18,-1.08,134.0,3.0,0.0224,1
+237102,Tullaghan,Westmeath,22,6.19,134.0,4.0,0.0299,2
+237044,Fore East,Westmeath,14,-0.33,139.0,5.0,0.036,1
+087015,Burtown,Kildare,16,2.17,145.0,5.0,0.0345,2
+107068,Meelick,Laois,17,-3.7,135.0,13.0,0.0963,1
+137020,Corboy,Longford,21,-1.89,129.0,3.0,0.0233,1
+017001,Agha,Carlow,25,9.41,128.0,4.0,0.0312,2
+167023,Cruicetown,Meath,17,-1.09,131.0,5.0,0.0382,1
+237083,Noughaval,Westmeath,21,8.22,121.0,3.0,0.0248,2
+137025,Doory,Longford,20,2.41,152.0,6.0,0.0395,2
+257009,Ballingate,Wicklow,14,-7.76,143.0,5.0,0.035,1
+107074,Moyanna,Laois,15,6.16,110.0,1.0,0.0091,2
+107005,Arless,Laois,29,4.46,128.0,5.0,0.0391,2
+167044,Kilcooly,Meath,20,1.57,130.0,2.0,0.0154,2
+187008,Ballyshear,Offaly,19,-9.26,129.0,8.0,0.062,1
+257045,Kilballyowen,Wicklow,14,-1.01,131.0,2.0,0.0153,1
+107092,Tankardstown,Laois,29,1.65,110.0,2.0,0.0182,2
+097003,Attanagh,Kilkenny,14,3.37,129.0,2.0,0.0155,2
+237045,Fore West,Westmeath,21,-0.88,135.0,4.0,0.0296,1
+097056,Kilbride,Kilkenny,29,0.62,121.0,5.0,0.0413,2
+237089,Rathconrath,Westmeath,19,0.17,126.0,6.0,0.0476,2
+097060,Kilkeasy,Kilkenny,18,6.33,125.0,3.0,0.024,2
+107011,Ballycarroll,Laois,14,-2.26,124.0,5.0,0.0403,1
+187049,Kilcolman,Offaly,21,0.66,138.0,3.0,0.0217,2
+237061,Kilcumreragh,Westmeath,15,3.19,134.0,4.0,0.0299,2
+137019,Coolamber,Longford,15,2.83,129.0,6.0,0.0465,2
+017028,Killerrig,Carlow,31,8.37,111.0,2.0,0.018,2
+017020,Glynn,Carlow,13,-0.64,129.0,3.0,0.0233,1
+187047,Huntston,Offaly,17,-1.81,128.0,4.0,0.0312,1
+107097,Turra,Laois,12,3.5,122.0,3.0,0.0246,2
+177004,Anny,Monaghan,12,-4.78,121.0,7.0,0.0579,1
+177067,St. Tierney,Monaghan,15,0.5,134.0,3.0,0.0224,2
+097005,Ballinamara,Kilkenny,20,11.19,128.0,2.0,0.0156,3
+237074,Middleton,Westmeath,12,0.19,110.0,3.0,0.0273,2
+237009,Ballymorin,Westmeath,12,6.8,117.0,3.0,0.0256,2
+257002,Altidore,Wicklow,11,1.88,129.0,3.0,0.0233,2
+107053,Grantstown,Laois,18,7.14,136.0,4.0,0.0294,2
+257073,Togher,Wicklow,23,-1.03,119.0,5.0,0.042,1
+237090,Rathowen,Westmeath,17,-11.06,126.0,14.0,0.1111,0
+087054,Killinthomas,Kildare,21,3.45,112.0,1.0,0.0089,2
+187033,Dunkerrin,Offaly,18,4.78,118.0,5.0,0.0424,2
+237027,Cloghan,Westmeath,28,1.4,115.0,4.0,0.0348,2
+177060,Mullyash,Monaghan,12,-7.03,128.0,9.0,0.0703,1
+137041,Ledwithstown,Longford,20,-3.1,136.0,8.0,0.0588,1
+177015,Carrickatee,Monaghan,20,3.74,114.0,5.0,0.0439,2
+167022,Crosskeys,Meath,11,-3.09,124.0,2.0,0.0161,1
+107002,Aghmacart,Laois,22,5.15,110.0,3.0,0.0273,2
+257020,Calary,Wicklow,10,3.29,117.0,2.0,0.0171,2
+107027,Clash,Laois,17,1.68,112.0,3.0,0.0268,2
+187001,Aghancon,Offaly,6,-0.36,142.0,4.0,0.0282,1
+017029,Kineagh,Carlow,7,1.92,122.0,3.0,0.0246,2
+107004,Ardough,Laois,12,2.51,113.0,4.0,0.0354,2
+187046,Hinds,Offaly,6,-3.03,124.0,5.0,0.0403,1
+237062,Killare,Westmeath,18,2.68,112.0,3.0,0.0268,2
+257007,Ballinacor,Wicklow,21,2.86,113.0,1.0,0.0088,2
+257049,Killinure,Wicklow,15,-3.5,122.0,8.0,0.0656,1
+137046,Milltown,Longford,19,-7.1,120.0,7.0,0.0583,1
+187044,Gorteen,Offaly,23,7.38,111.0,4.0,0.036,2
+137033,Gelshagh,Longford,20,1.09,122.0,2.0,0.0164,2
+107094,Timogue,Laois,18,3.23,124.0,2.0,0.0161,2
+187078,Shannonharbour,Offaly,14,0.1,117.0,1.0,0.0085,2
+237026,Churchtown,Westmeath,22,2.79,111.0,6.0,0.0541,2
+107036,Cullahill,Laois,21,2.53,122.0,6.0,0.0492,2
+187031,Dromoyle,Offaly,22,0.17,103.0,1.0,0.0097,2
+097044,Galmoy,Kilkenny,11,5.83,112.0,6.0,0.0536,2
+107023,Cappalough,Laois,21,1.86,111.0,6.0,0.0541,2
+107035,Cuffsborough,Laois,16,0.8,113.0,3.0,0.0265,2
+017030,Kyle,Carlow,23,3.52,119.0,9.0,0.0756,2
+107059,Killermogh,Laois,16,-3.4,126.0,7.0,0.0556,1
+237095,Sonna,Westmeath,12,-3.97,119.0,4.0,0.0336,1
+187059,Lea,Offaly,20,1.06,110.0,9.0,0.0818,2
+187061,Lumcloon,Offaly,11,-6.05,134.0,7.0,0.0522,1
+187011,Bawn,Offaly,23,-4.75,112.0,9.0,0.0804,1
+237033,Coolure,Westmeath,7,-5.46,130.0,4.0,0.0308,1
+017006,Ballymoon,Carlow,15,4.7,117.0,3.0,0.0256,2
+137001,Abbeylara,Longford,13,-1.47,126.0,7.0,0.0556,1
+257042,Humewood,Wicklow,8,-1.07,131.0,8.0,0.0611,1
+097092,Rosbercon Rural,Kilkenny,19,-10.3,99.0,4.0,0.0404,0
+017048,Tiknock,Carlow,20,0.52,113.0,4.0,0.0354,2
+097006,Ballincrea,Kilkenny,14,-3.09,100.0,1.0,0.01,1
+237021,Carrick,Westmeath,15,1.63,117.0,4.0,0.0342,2
+257075,Trooperstown,Wicklow,18,5.62,113.0,3.0,0.0265,2
+097027,Clomantagh,Kilkenny,15,-0.77,113.0,1.0,0.0088,1
+187021,Clonmacnoise,Offaly,12,-6.54,115.0,3.0,0.0261,1
+167092,Trohanny,Meath,15,-7.19,114.0,7.0,0.0614,1
+097039,Famma,Kilkenny,13,5.03,113.0,3.0,0.0265,2
+257057,Moneystown,Wicklow,15,12.1,115.0,2.0,0.0174,3
+237011,Ballyhealy,Westmeath,12,-7.01,104.0,3.0,0.0288,1
+257014,Ballycullen,Wicklow,14,-1.16,119.0,2.0,0.0168,1
+107017,Blandsfort,Laois,12,4.36,109.0,1.0,0.0092,2
+087077,Pollardstown,Kildare,19,6.48,110.0,4.0,0.0364,2
+097040,Farnoge,Kilkenny,15,3.76,108.0,2.0,0.0185,2
+187027,Derrinboy,Offaly,8,3.24,106.0,1.0,0.0094,2
+107076,Newtown,Laois,18,-7.5,111.0,6.0,0.0541,1
+177049,Killeevan,Monaghan,14,-3.02,120.0,4.0,0.0333,1
+107066,Luggacurren,Laois,16,-0.12,104.0,1.0,0.0096,1
+107034,Coolrain,Laois,17,-2.68,112.0,5.0,0.0446,1
+017053,Williamstown,Carlow,18,1.17,99.0,5.0,0.0505,2
+097007,Ballybeagh,Kilkenny,12,9.41,98.0,3.0,0.0306,2
+137021,Creevy,Longford,20,0.29,113.0,5.0,0.0442,2
+107062,Kilnaseer,Laois,16,3.03,109.0,4.0,0.0367,2
+167012,Boherboy,Meath,15,-2.85,104.0,2.0,0.0192,1
+177027,Corracharra,Monaghan,17,-5.71,100.0,7.0,0.07,1
+237001,Ardnaglew,Westmeath,19,10.14,99.0,1.0,0.0101,3
+237086,Portloman,Westmeath,15,-1.29,113.0,6.0,0.0531,1
+097108,Tullaroan,Kilkenny,11,4.89,103.0,4.0,0.0388,2
+087012,Belan,Kildare,19,-1.48,102.0,2.0,0.0196,1
+137051,Mullanalaghta,Longford,11,2.92,104.0,5.0,0.0481,2
+237054,Milltown,Westmeath,13,-7.08,102.0,8.0,0.0784,1
+177001,Aghabog,Monaghan,22,-2.33,105.0,2.0,0.019,1
+177011,Bragan,Monaghan,14,-0.68,101.0,3.0,0.0297,1
+097046,Goresbridge,Kilkenny,9,-10.4,125.0,19.0,0.152,0
+107090,Shrule,Laois,15,3.61,93.0,4.0,0.043,2
+167047,Killallon,Meath,14,1.31,107.0,3.0,0.028,2
+257076,Tuckmill,Wicklow,19,-2.46,101.0,5.0,0.0495,1
+017023,Haroldstown,Carlow,11,-0.6,95.0,5.0,0.0526,1
+237092,Rosmead,Westmeath,16,-0.28,103.0,9.0,0.0874,1
+097045,Glashare,Kilkenny,18,1.41,102.0,6.0,0.0588,2
+257037,Glendalough,Wicklow,17,1.12,106.0,1.0,0.0094,2
+237088,Rahugh,Westmeath,7,0.31,110.0,5.0,0.0455,2
+107065,Lacka,Laois,11,2.01,94.0,0.0,0.0,2
+137050,Moyne,Longford,13,-2.32,117.0,5.0,0.0427,1
+137034,Granard Rural,Longford,12,-4.67,95.0,6.0,0.0632,1
+097104,Tubbridbrittain,Kilkenny,13,-0.03,95.0,2.0,0.0211,1
+107085,Rearymore,Laois,17,1.74,96.0,7.0,0.0729,2
+097109,Ullard,Kilkenny,18,-0.72,94.0,3.0,0.0319,1
+237015,Ballynaskeagh,Westmeath,22,2.17,96.0,4.0,0.0417,2
+107061,Kilmurry,Laois,15,8.69,88.0,0.0,0.0,2
+167064,Moynalty,Meath,7,-4.24,119.0,12.0,0.1008,1
+087020,Carrick,Kildare,23,2.73,89.0,3.0,0.0337,2
+187083,Tinamuck,Offaly,18,-2.37,88.0,3.0,0.0341,1
+137039,Killoe,Longford,22,-2.2,110.0,7.0,0.0636,1
+017043,Ridge,Carlow,22,1.64,82.0,1.0,0.0122,2
+107057,Kildellig,Laois,14,4.92,90.0,2.0,0.0222,2
+187029,Derrycooly,Offaly,14,-0.42,82.0,3.0,0.0366,1
+237042,Faughalstown,Westmeath,17,2.92,93.0,4.0,0.043,2
+107064,Kyle South,Laois,10,4.21,101.0,4.0,0.0396,2
+237105,Woodland,Westmeath,11,3.46,97.0,5.0,0.0515,2
+237103,Umma,Westmeath,12,7.33,97.0,8.0,0.0825,2
+107003,Arderin,Laois,13,-4.51,87.0,3.0,0.0345,1
+177033,Derrygorry,Monaghan,9,-4.82,99.0,6.0,0.0606,1
+097016,Bramblestown,Kilkenny,21,10.79,82.0,0.0,0.0,3
+257066,Rathsallagh,Wicklow,19,5.25,89.0,3.0,0.0337,2
+187043,Gorteen,Offaly,13,-0.74,98.0,2.0,0.0204,1
+097059,Kilfane,Kilkenny,13,0.51,101.0,2.0,0.0198,2
+097073,Lisdowney,Kilkenny,9,4.95,93.0,2.0,0.0215,2
+107082,Rathaspick,Laois,9,0.26,94.0,4.0,0.0426,2
+097088,Rathbeagh,Kilkenny,17,7.54,91.0,1.0,0.011,2
+257063,Rath,Wicklow,8,-0.13,97.0,5.0,0.0515,1
+257022,Coolattin,Wicklow,11,-1.13,96.0,3.0,0.0312,1
+097052,Jerpoint West,Kilkenny,27,3.3,82.0,1.0,0.0122,2
+237050,Greenpark,Westmeath,11,0.31,96.0,3.0,0.0312,2
+107043,Dunmore,Laois,17,3.83,86.0,3.0,0.0349,2
+107096,Trumra,Laois,7,1.91,85.0,1.0,0.0118,2
+017007,Ballymurphy,Carlow,11,1.4,93.0,2.0,0.0215,2
+167013,Burry,Meath,16,0.24,90.0,2.0,0.0222,2
+097030,Coolhill,Kilkenny,14,1.76,90.0,2.0,0.0222,2
+137014,Cashel East,Longford,13,-4.94,109.0,5.0,0.0459,1
+187028,Derryad,Offaly,16,-0.93,80.0,2.0,0.025,1
+187055,Killyon,Offaly,12,4.83,88.0,3.0,0.0341,2
+167062,Moybolgue,Meath,20,-1.61,87.0,2.0,0.023,1
+237053,Hilltown,Westmeath,13,-5.29,100.0,4.0,0.04,1
+107045,Dysartgallen,Laois,15,6.12,86.0,2.0,0.0233,2
+237019,Bracklin,Westmeath,13,3.0,83.0,3.0,0.0361,2
+107040,Donaghmore,Laois,14,-2.73,96.0,6.0,0.0625,1
+187077,Shannonbridge,Offaly,8,-5.85,113.0,11.0,0.0973,1
+257024,Coolboy,Wicklow,19,-4.38,89.0,4.0,0.0449,1
+177009,Bellatrain,Monaghan,16,-5.94,79.0,2.0,0.0253,1
+187053,Killooly,Offaly,11,5.07,90.0,3.0,0.0333,2
+257044,Imael South,Wicklow,3,-2.96,94.0,3.0,0.0319,1
+257040,Hartstown,Wicklow,17,5.8,93.0,2.0,0.0215,2
+107038,Curraclone,Laois,15,5.77,80.0,4.0,0.05,2
+087032,Drehid,Kildare,11,5.67,88.0,0.0,0.0,2
+237098,Street,Westmeath,9,-5.37,109.0,7.0,0.0642,1
+187064,Mountbriscoe,Offaly,15,-2.82,76.0,7.0,0.0921,1
+237039,Dysart,Westmeath,13,-1.38,84.0,4.0,0.0476,1
+097042,Freaghana,Kilkenny,11,-0.83,79.0,3.0,0.038,1
+237034,Copperalley,Westmeath,5,-7.0,107.0,4.0,0.0374,1
+097036,Dysartmoon,Kilkenny,12,-3.22,85.0,6.0,0.0706,1
+097026,Clogharinka,Kilkenny,11,1.78,89.0,2.0,0.0225,2
+107051,Graigue,Laois,10,-5.92,87.0,4.0,0.046,1
+107050,Garrymore,Laois,24,5.6,68.0,3.0,0.0441,2
+187065,Mounterin,Offaly,13,1.21,82.0,2.0,0.0244,2
+257001,Aghowle,Wicklow,13,-8.28,80.0,4.0,0.05,1
+237082,Newtown,Westmeath,11,3.94,79.0,1.0,0.0127,2
+237038,Drumraney,Westmeath,14,3.86,85.0,1.0,0.0118,2
+137022,Crosagstown,Longford,10,-2.55,95.0,10.0,0.1053,1
+237036,Derrymore,Westmeath,17,4.35,87.0,4.0,0.046,2
+107084,Rathsaran,Laois,4,-3.65,94.0,10.0,0.1064,1
+237094,Skeagh,Westmeath,17,1.83,90.0,0.0,0.0,2
+237037,Doonis,Westmeath,18,7.03,92.0,2.0,0.0217,2
+257043,Imael North,Wicklow,7,9.63,91.0,3.0,0.033,2
+257053,Knockrath,Wicklow,13,-0.9,82.0,1.0,0.0122,1
+097107,Tullahought,Kilkenny,6,0.18,80.0,1.0,0.0125,2
+237032,Coole,Westmeath,10,-2.2,96.0,4.0,0.0417,1
+237043,Finnea,Westmeath,10,-8.63,96.0,9.0,0.0938,1
+177065,Shanmullagh,Monaghan,9,-1.33,82.0,3.0,0.0366,1
+167049,Killeagh,Meath,13,-0.48,81.0,8.0,0.0988,1
+237067,Kilpatrick,Westmeath,7,5.47,80.0,3.0,0.0375,2
+107030,Clonin,Laois,13,-3.6,77.0,5.0,0.0649,1
+167086,Stonefield,Meath,6,-0.51,84.0,1.0,0.0119,1
+237010,Ballybroder,Westmeath,7,0.69,76.0,2.0,0.0263,2
+097009,Ballyconra,Kilkenny,5,1.45,80.0,6.0,0.075,2
+137048,Mountdavis,Longford,11,-1.84,74.0,4.0,0.0541,1
+137010,Ballymuigh,Longford,10,-11.49,96.0,10.0,0.1042,0
+097066,Killamery,Kilkenny,12,-3.53,87.0,5.0,0.0575,1
+237096,Stonehall,Westmeath,12,0.78,71.0,2.0,0.0282,2
+097037,Earlstown,Kilkenny,11,4.98,74.0,0.0,0.0,2
+257010,Ballinglen,Wicklow,5,-1.7,72.0,2.0,0.0278,1
+087044,Inchaquire,Kildare,12,2.26,78.0,3.0,0.0385,2
+097098,Stonyford,Kilkenny,11,6.53,83.0,2.0,0.0241,2
+137012,Bunlahy,Longford,6,-7.85,72.0,5.0,0.0694,1
+237060,Kilcumny,Westmeath,8,-6.33,81.0,5.0,0.0617,1
+107063,Kyle,Laois,7,-1.16,87.0,4.0,0.046,1
+087003,Ballaghmoon,Kildare,6,7.57,76.0,1.0,0.0132,2
+187057,Knockbarron,Offaly,11,1.91,69.0,1.0,0.0145,2
+237073,Lauree,Westmeath,8,-4.1,72.0,2.0,0.0278,1
+097012,Ballyvool,Kilkenny,12,6.65,72.0,2.0,0.0278,2
+147013,Darver,Louth,11,3.44,72.0,4.0,0.0556,2
+167007,Ballinlough,Meath,17,-1.08,67.0,2.0,0.0299,1
+237040,Emper,Westmeath,7,1.17,80.0,5.0,0.0625,2
+097075,Mallardstown,Kilkenny,2,-2.93,75.0,3.0,0.04,1
+257013,Ballybeg,Wicklow,7,6.03,66.0,5.0,0.0758,2
+257034,Eadestown,Wicklow,8,-2.68,67.0,1.0,0.0149,1
+107032,Clonmore,Laois,9,-7.5,73.0,5.0,0.0685,1
+187082,Templeharry,Offaly,7,-1.26,78.0,5.0,0.0641,1
+097055,Kilbeacon,Kilkenny,9,1.47,64.0,2.0,0.0312,2
+257068,Stratford,Wicklow,4,-1.02,81.0,6.0,0.0741,1
+017015,Coonogue,Carlow,9,-2.77,71.0,4.0,0.0563,1
+167056,Knocklough,Meath,12,-5.03,72.0,0.0,0.0,1
+097090,Rathealy,Kilkenny,13,-1.22,66.0,0.0,0.0,1
+137047,Moatfarrell,Longford,15,1.6,63.0,0.0,0.0,2
+107048,Farnans,Laois,8,-5.52,63.0,2.0,0.0317,1
+107013,Ballylehane,Laois,5,0.66,66.0,2.0,0.0303,2
+097084,Pleberstown,Kilkenny,9,3.43,72.0,1.0,0.0139,2
+087065,Lullymore,Kildare,10,-4.17,59.0,2.0,0.0339,1
+187016,Cangort,Offaly,9,-2.78,71.0,2.0,0.0282,1
+237100,Templepatrick,Westmeath,10,-2.76,75.0,2.0,0.0267,1
+087045,Johnstown,Kildare,13,1.71,57.0,5.0,0.0877,2
+187058,Knockdrin,Offaly,11,-9.12,54.0,1.0,0.0185,1
+167072,Posseckstown,Meath,10,0.38,68.0,1.0,0.0147,2
+107098,Vicarstown,Laois,8,3.87,65.0,3.0,0.0462,2
+177035,Drum,Monaghan,14,-8.32,66.0,4.0,0.0606,1
+097071,Kiltorcan,Kilkenny,7,14.8,51.0,1.0,0.0196,3
+137024,Dalystown,Longford,13,-10.8,58.0,5.0,0.0862,0
+257055,Lugglass,Wicklow,11,2.76,51.0,2.0,0.0392,2
+137040,Knockanbaun,Longford,7,-1.35,59.0,5.0,0.0847,1
+237049,Glore,Westmeath,8,-3.86,64.0,4.0,0.0625,1
+237078,Muckanagh,Westmeath,9,7.17,64.0,1.0,0.0156,2
+187003,Ballincor,Offaly,7,1.87,61.0,0.0,0.0,2
+237018,Boherquill,Westmeath,17,-1.83,57.0,2.0,0.0351,1
+107049,Fossy,Laois,8,3.43,56.0,0.0,0.0,2
+257026,Cronelea,Wicklow,5,-3.96,69.0,4.0,0.058,1
+107033,Colt,Laois,5,-8.34,63.0,3.0,0.0476,1
+237008,Ballinlough,Westmeath,6,-0.23,59.0,0.0,0.0,1
+237048,Glenlough,Westmeath,8,-3.87,66.0,1.0,0.0152,1
+237057,Jamestown,Westmeath,8,1.8,54.0,2.0,0.037,2
+107095,Tinnahinch,Laois,2,-8.44,60.0,1.0,0.0167,1
+097094,Scotsborough,Kilkenny,8,0.68,64.0,2.0,0.0312,2
+087013,Bert,Kildare,6,-3.94,68.0,4.0,0.0588,1
+187010,Barna,Offaly,7,0.11,56.0,1.0,0.0179,2
+107024,Cardtown,Laois,10,-3.15,52.0,5.0,0.0962,1
+097078,Muckalee,Kilkenny,13,10.03,56.0,4.0,0.0714,3
+087078,Quinsborough,Kildare,5,10.35,51.0,1.0,0.0196,3
+257056,Money,Wicklow,6,-1.05,55.0,1.0,0.0182,1
+187060,Letter,Offaly,6,2.35,55.0,1.0,0.0182,2
+187068,O'Dempsey,Offaly,7,4.04,48.0,1.0,0.0208,2
+097023,Castlegannon,Kilkenny,4,14.18,47.0,0.0,0.0,3
+187074,Roscomroe,Offaly,11,0.16,50.0,1.0,0.02,2
+097021,Castlebanny,Kilkenny,8,1.12,45.0,0.0,0.0,2
+097015,Boolyglass,Kilkenny,6,0.93,51.0,2.0,0.0392,2
+177006,Ballybay Urban,Monaghan,9,-6.3,69.0,21.0,0.3043,1
+187037,Eglish,Offaly,4,2.77,54.0,6.0,0.1111,2
+257011,Ballinguile,Wicklow,5,8.01,46.0,2.0,0.0435,2
+107037,Cullenagh,Laois,10,8.11,48.0,2.0,0.0417,2
+107069,Moneenalassa,Laois,7,-2.65,52.0,1.0,0.0192,1
+097017,Brownsford,Kilkenny,8,-0.34,46.0,1.0,0.0217,1
+107067,Marymount,Laois,3,3.37,45.0,1.0,0.0222,2
+237104,Winetown,Westmeath,6,-0.63,50.0,0.0,0.0,1
+137023,Currygrane,Longford,6,-4.95,48.0,0.0,0.0,1
+107070,Moneymore,Laois,4,-3.62,48.0,2.0,0.0417,1
+107055,Kilcoke,Laois,7,2.92,52.0,0.0,0.0,2
+137042,Lislea,Longford,8,-15.62,46.0,3.0,0.0652,0
+017039,Rathanna,Carlow,5,2.18,51.0,3.0,0.0588,2
+177040,Drummully,Monaghan,5,1.57,44.0,3.0,0.0682,2
+137028,Drummeel,Longford,3,-0.18,50.0,3.0,0.06,1
+237085,Piercetown,Westmeath,5,3.46,40.0,0.0,0.0,2
+237070,Knockarrow,Westmeath,7,-0.03,47.0,1.0,0.0213,1
+097013,Baunmore,Kilkenny,4,-8.75,47.0,1.0,0.0213,1
+187015,Broughal,Offaly,5,-1.27,45.0,1.0,0.0222,1
+237072,Lackan,Westmeath,7,5.4,31.0,0.0,0.0,2
+187085,Tulla,Offaly,5,-3.04,34.0,1.0,0.0294,1
+107021,Caher,Laois,6,2.27,33.0,2.0,0.0606,2

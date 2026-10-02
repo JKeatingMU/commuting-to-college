@@ -1,0 +1,211 @@
+campus_id,institution,county,eds,cohort,km_1way,car_kg_year,pt_kg_year,saving_kg_year,fare_type,cohort_car_t,cohort_pt_t,cohort_saving_t
+dcu_glasnevin,DCU,Dublin City,162,15988,6.8,344.9,172.4,172.4,zone,5514.0,2756.0,2756.0
+dcu_glasnevin,DCU,Fingal,42,13684,16.7,843.7,421.8,421.8,zone,11545.0,5772.0,5772.0
+dcu_glasnevin,DCU,Dún Laoghaire-Rathdown,69,8026,17.4,879.1,439.6,439.6,zone,7056.0,3528.0,3528.0
+dcu_glasnevin,DCU,South Dublin,49,12169,21.3,1075.3,537.7,537.7,zone,13085.0,6543.0,6543.0
+dcu_glasnevin,DCU,Meath,92,9584,44.2,2227.5,495.0,1732.5,intercity,21348.0,4744.0,16604.0
+dcu_glasnevin,DCU,Kildare,88,10683,49.2,2480.7,986.4,1494.3,zone,26501.0,10538.0,15964.0
+dcu_glasnevin,DCU,Wicklow,82,6462,65.5,3303.1,734.0,2569.1,intercity,21345.0,4743.0,16602.0
+dcu_glasnevin,DCU,Louth,43,6018,66.7,3360.8,746.8,2613.9,intercity,20225.0,4494.0,15730.0
+dcu_glasnevin,DCU,Westmeath,106,3927,97.4,4908.4,1090.8,3817.7,intercity,19275.0,4284.0,14992.0
+dcu_glasnevin,DCU,Laois,94,3989,99.2,4997.7,1110.6,3887.1,intercity,19936.0,4430.0,15506.0
+dcu_glasnevin,DCU,Carlow,53,2429,103.0,5191.9,1153.8,4038.2,intercity,12611.0,2803.0,9809.0
+dcu_glasnevin,DCU,Offaly,85,3438,109.2,5502.9,1222.9,4280.0,intercity,18919.0,4204.0,14715.0
+dcu_glasnevin,DCU,Monaghan,69,2729,113.5,5720.2,1271.2,4449.1,intercity,15610.0,3469.0,12142.0
+dcu_glasnevin,DCU,Longford,52,1896,123.9,6245.9,1388.0,4857.9,intercity,11842.0,2632.0,9211.0
+dcu_glasnevin,DCU,Kilkenny,111,4299,142.9,7203.2,1600.7,5602.5,intercity,30967.0,6881.0,24085.0
+dkit_dundalk,DkIT,Louth,43,6018,20.9,1055.1,234.5,820.6,intercity,6350.0,1411.0,4938.0
+dkit_dundalk,DkIT,Monaghan,69,2729,43.5,2192.8,487.3,1705.5,intercity,5984.0,1330.0,4654.0
+dkit_dundalk,DkIT,Meath,92,9584,61.1,3081.0,684.7,2396.4,intercity,29528.0,6562.0,22967.0
+dkit_dundalk,DkIT,Fingal,42,13684,77.2,3893.0,865.1,3027.9,intercity,53272.0,11838.0,41434.0
+dkit_dundalk,DkIT,Dublin City,162,15988,84.6,4265.6,947.9,3317.7,intercity,68198.0,15155.0,53043.0
+dkit_dundalk,DkIT,South Dublin,49,12169,97.6,4918.2,1092.9,3825.2,intercity,59850.0,13300.0,46549.0
+dkit_dundalk,DkIT,Dún Laoghaire-Rathdown,69,8026,99.1,4992.4,1109.4,3883.0,intercity,40069.0,8904.0,31165.0
+dkit_dundalk,DkIT,Westmeath,106,3927,115.2,5805.4,1290.1,4515.3,intercity,22798.0,5066.0,17732.0
+dkit_dundalk,DkIT,Kildare,88,10683,122.7,6183.4,1374.1,4809.3,intercity,66057.0,14680.0,51378.0
+dkit_dundalk,DkIT,Longford,52,1896,127.9,6447.1,1432.7,5014.5,intercity,12224.0,2716.0,9507.0
+dkit_dundalk,DkIT,Wicklow,82,6462,140.3,7073.0,1571.8,5501.2,intercity,45706.0,10157.0,35549.0
+dkit_dundalk,DkIT,Offaly,85,3438,148.0,7458.7,1657.5,5801.2,intercity,25643.0,5698.0,19945.0
+dkit_dundalk,DkIT,Laois,94,3989,173.1,8723.6,1938.6,6785.0,intercity,34798.0,7733.0,27065.0
+dkit_dundalk,DkIT,Carlow,53,2429,177.8,8961.8,1991.5,6970.3,intercity,21768.0,4837.0,16931.0
+dkit_dundalk,DkIT,Kilkenny,111,4299,217.7,10973.2,2438.5,8534.7,intercity,47174.0,10483.0,36691.0
+iadt,IADT,Dún Laoghaire-Rathdown,69,8026,5.9,299.0,149.5,149.5,zone,2400.0,1200.0,1200.0
+iadt,IADT,Dublin City,162,15988,17.1,861.9,431.0,431.0,zone,13780.0,6891.0,6891.0
+iadt,IADT,South Dublin,49,12169,22.0,1108.4,554.2,554.2,zone,13488.0,6744.0,6744.0
+iadt,IADT,Fingal,42,13684,32.7,1646.5,823.3,823.3,zone,22531.0,11266.0,11266.0
+iadt,IADT,Wicklow,82,6462,37.6,1894.3,420.9,1473.3,intercity,12241.0,2720.0,9520.0
+iadt,IADT,Kildare,88,10683,53.8,2712.6,1095.7,1616.9,zone,28979.0,11705.0,17273.0
+iadt,IADT,Meath,92,9584,62.5,3149.7,699.9,2449.8,intercity,30187.0,6708.0,23479.0
+iadt,IADT,Louth,43,6018,81.3,4096.2,910.3,3185.9,intercity,24651.0,5478.0,19173.0
+iadt,IADT,Laois,94,3989,100.2,5052.4,1122.8,3929.7,intercity,20154.0,4479.0,15676.0
+iadt,IADT,Carlow,53,2429,103.0,5193.3,1154.1,4039.3,intercity,12615.0,2803.0,9811.0
+iadt,IADT,Westmeath,106,3927,108.2,5454.2,1212.0,4242.1,intercity,21419.0,4760.0,16659.0
+iadt,IADT,Offaly,85,3438,117.3,5912.9,1314.0,4598.9,intercity,20329.0,4518.0,15811.0
+iadt,IADT,Monaghan,69,2729,128.3,6466.9,1437.1,5029.8,intercity,17648.0,3922.0,13726.0
+iadt,IADT,Longford,52,1896,134.2,6762.3,1502.7,5259.6,intercity,12821.0,2849.0,9972.0
+iadt,IADT,Kilkenny,111,4299,142.2,7165.4,1592.3,5573.1,intercity,30804.0,6845.0,23959.0
+marino,Marino,Dublin City,162,15988,6.2,313.0,156.5,156.5,zone,5004.0,2502.0,2502.0
+marino,Marino,Dún Laoghaire-Rathdown,69,8026,14.9,750.5,375.2,375.2,zone,6024.0,3011.0,3011.0
+marino,Marino,South Dublin,49,12169,19.0,959.1,479.6,479.6,zone,11671.0,5836.0,5836.0
+marino,Marino,Fingal,42,13684,19.3,971.9,485.9,485.9,zone,13299.0,6649.0,6649.0
+marino,Marino,Kildare,88,10683,48.0,2421.7,972.9,1448.8,zone,25871.0,10393.0,15478.0
+marino,Marino,Meath,92,9584,49.1,2477.0,550.4,1926.6,intercity,23740.0,5275.0,18465.0
+marino,Marino,Wicklow,82,6462,49.3,2483.9,552.0,1931.9,intercity,16051.0,3567.0,12484.0
+marino,Marino,Louth,43,6018,68.1,3433.7,763.1,2670.7,intercity,20664.0,4592.0,16072.0
+marino,Marino,Laois,94,3989,93.7,4720.9,1049.1,3671.8,intercity,18832.0,4185.0,14647.0
+marino,Marino,Carlow,53,2429,97.5,4913.0,1091.8,3821.3,intercity,11934.0,2652.0,9282.0
+marino,Marino,Westmeath,106,3927,102.7,5178.5,1150.8,4027.7,intercity,20336.0,4519.0,15817.0
+marino,Marino,Offaly,85,3438,112.9,5687.9,1264.0,4423.9,intercity,19555.0,4346.0,15209.0
+marino,Marino,Monaghan,69,2729,115.0,5795.2,1287.8,4507.3,intercity,15815.0,3514.0,12300.0
+marino,Marino,Longford,52,1896,129.3,6516.3,1448.1,5068.3,intercity,12355.0,2746.0,9609.0
+marino,Marino,Kilkenny,111,4299,137.3,6919.4,1537.6,5381.7,intercity,29747.0,6610.0,23136.0
+mu_maynooth,MU,South Dublin,49,12169,22.9,1153.9,577.0,577.0,zone,14042.0,7022.0,7022.0
+mu_maynooth,MU,Kildare,88,10683,26.7,1345.4,477.0,868.4,zone,14373.0,5096.0,9277.0
+mu_maynooth,MU,Dublin City,162,15988,29.2,1474.0,737.0,737.0,zone,23566.0,11783.0,11783.0
+mu_maynooth,MU,Fingal,42,13684,33.4,1682.7,841.4,841.4,zone,23026.0,11514.0,11514.0
+mu_maynooth,MU,Dún Laoghaire-Rathdown,69,8026,39.4,1986.0,993.0,993.0,zone,15940.0,7970.0,7970.0
+mu_maynooth,MU,Meath,92,9584,41.4,2085.9,426.1,1659.8,intercity,19991.0,4084.0,15908.0
+mu_maynooth,MU,Wicklow,82,6462,66.4,3349.0,633.1,2715.9,intercity,21641.0,4091.0,17550.0
+mu_maynooth,MU,Westmeath,106,3927,72.6,3658.0,778.9,2879.1,intercity,14365.0,3059.0,11306.0
+mu_maynooth,MU,Laois,94,3989,78.3,3948.4,700.2,3248.2,coach,15750.0,2793.0,12957.0
+mu_maynooth,MU,Carlow,53,2429,83.1,4185.9,770.7,3415.2,intercity,10168.0,1872.0,8296.0
+mu_maynooth,MU,Offaly,85,3438,83.7,4216.7,769.2,3447.5,coach,14497.0,2645.0,11853.0
+mu_maynooth,MU,Louth,43,6018,85.3,4298.8,746.0,3552.7,coach,25870.0,4489.0,21380.0
+mu_maynooth,MU,Longford,52,1896,98.0,4941.1,1098.0,3843.0,intercity,9368.0,2082.0,7286.0
+mu_maynooth,MU,Kilkenny,111,4299,121.9,6142.1,1360.7,4781.4,intercity,26405.0,5850.0,20555.0
+mu_maynooth,MU,Monaghan,69,2729,131.6,6633.6,1464.7,5168.9,intercity,18103.0,3997.0,14106.0
+ncad,NCAD,Dublin City,162,15988,6.0,302.0,151.0,151.0,zone,4828.0,2414.0,2414.0
+ncad,NCAD,South Dublin,49,12169,11.9,597.6,298.8,298.8,zone,7272.0,3636.0,3636.0
+ncad,NCAD,Dún Laoghaire-Rathdown,69,8026,12.6,633.2,316.6,316.6,zone,5082.0,2541.0,2541.0
+ncad,NCAD,Fingal,42,13684,18.4,926.0,463.0,463.0,zone,12671.0,6336.0,6336.0
+ncad,NCAD,Kildare,88,10683,39.9,2012.1,790.8,1221.3,zone,21495.0,8448.0,13047.0
+ncad,NCAD,Meath,92,9584,44.5,2241.4,498.1,1743.3,intercity,21482.0,4774.0,16708.0
+ncad,NCAD,Wicklow,82,6462,46.0,2316.5,514.8,1801.7,intercity,14969.0,3327.0,11643.0
+ncad,NCAD,Louth,43,6018,71.4,3596.2,799.1,2797.0,intercity,21642.0,4809.0,16832.0
+ncad,NCAD,Laois,94,3989,87.5,4409.4,979.9,3429.6,intercity,17589.0,3909.0,13681.0
+ncad,NCAD,Carlow,53,2429,91.4,4606.2,1023.6,3582.6,intercity,11188.0,2486.0,8702.0
+ncad,NCAD,Westmeath,106,3927,91.9,4632.0,1029.3,3602.6,intercity,18190.0,4042.0,14147.0
+ncad,NCAD,Offaly,85,3438,102.0,5140.4,1142.3,3998.1,intercity,17673.0,3927.0,13745.0
+ncad,NCAD,Monaghan,69,2729,118.0,5947.2,1321.6,4625.6,intercity,16230.0,3607.0,12623.0
+ncad,NCAD,Longford,52,1896,118.1,5951.0,1322.4,4628.5,intercity,11283.0,2507.0,8776.0
+ncad,NCAD,Kilkenny,111,4299,131.3,6615.2,1470.1,5145.2,intercity,28439.0,6320.0,22119.0
+rcsi,RCSI,Dublin City,162,15988,7.2,363.1,181.5,181.5,zone,5805.0,2902.0,2902.0
+rcsi,RCSI,Dún Laoghaire-Rathdown,69,8026,11.1,560.8,280.4,280.4,zone,4501.0,2250.0,2250.0
+rcsi,RCSI,South Dublin,49,12169,13.4,676.3,338.1,338.1,zone,8230.0,4114.0,4114.0
+rcsi,RCSI,Fingal,42,13684,20.4,1026.2,513.1,513.1,zone,14043.0,7021.0,7021.0
+rcsi,RCSI,Kildare,88,10683,42.5,2142.3,847.5,1294.8,zone,22886.0,9054.0,13832.0
+rcsi,RCSI,Wicklow,82,6462,45.2,2278.5,506.3,1772.1,intercity,14724.0,3272.0,11451.0
+rcsi,RCSI,Meath,92,9584,46.8,2357.2,523.8,1833.4,intercity,22591.0,5020.0,17571.0
+rcsi,RCSI,Louth,43,6018,73.3,3694.6,821.0,2873.6,intercity,22234.0,4941.0,17293.0
+rcsi,RCSI,Laois,94,3989,89.8,4526.9,1006.0,3520.9,intercity,18058.0,4013.0,14045.0
+rcsi,RCSI,Carlow,53,2429,93.5,4712.4,1047.2,3665.2,intercity,11446.0,2544.0,8903.0
+rcsi,RCSI,Westmeath,106,3927,94.9,4780.5,1062.3,3718.2,intercity,18773.0,4172.0,14601.0
+rcsi,RCSI,Offaly,85,3438,104.8,5283.5,1174.1,4109.4,intercity,18165.0,4037.0,14128.0
+rcsi,RCSI,Monaghan,69,2729,120.0,6047.4,1343.9,4703.5,intercity,16503.0,3668.0,12836.0
+rcsi,RCSI,Longford,52,1896,121.0,6099.9,1355.5,4744.3,intercity,11565.0,2570.0,8995.0
+rcsi,RCSI,Kilkenny,111,4299,133.5,6729.9,1495.5,5234.4,intercity,28932.0,6429.0,22503.0
+setu_carlow,SETU,Carlow,53,2429,14.7,738.8,164.2,574.6,intercity,1795.0,399.0,1396.0
+setu_carlow,SETU,Laois,94,3989,36.9,1858.9,413.1,1445.8,intercity,7415.0,1648.0,5767.0
+setu_carlow,SETU,Kilkenny,111,4299,49.8,2510.4,557.9,1952.6,intercity,10792.0,2398.0,8394.0
+setu_carlow,SETU,Kildare,88,10683,57.8,2912.3,647.2,2265.1,intercity,31112.0,6914.0,24198.0
+setu_carlow,SETU,Offaly,85,3438,78.5,3954.6,878.8,3075.8,intercity,13596.0,3021.0,10575.0
+setu_carlow,SETU,South Dublin,49,12169,80.7,4069.0,904.2,3164.8,intercity,49516.0,11003.0,38512.0
+setu_carlow,SETU,Wicklow,82,6462,84.3,4247.3,943.8,3303.4,intercity,27446.0,6099.0,21347.0
+setu_carlow,SETU,Dublin City,162,15988,91.5,4610.0,1024.4,3585.6,intercity,73705.0,16378.0,57327.0
+setu_carlow,SETU,Dún Laoghaire-Rathdown,69,8026,96.1,4843.4,1076.3,3767.1,intercity,38873.0,8638.0,30235.0
+setu_carlow,SETU,Fingal,42,13684,102.3,5157.3,1146.1,4011.2,intercity,70572.0,15683.0,54889.0
+setu_carlow,SETU,Westmeath,106,3927,111.9,5639.9,1253.3,4386.6,intercity,22148.0,4922.0,17226.0
+setu_carlow,SETU,Meath,92,9584,119.6,6028.7,1339.7,4689.0,intercity,57779.0,12840.0,44939.0
+setu_carlow,SETU,Longford,52,1896,144.4,7277.6,1617.3,5660.4,intercity,13798.0,3066.0,10732.0
+setu_carlow,SETU,Louth,43,6018,158.8,8002.5,1778.3,6224.1,intercity,48159.0,10702.0,37457.0
+setu_carlow,SETU,Monaghan,69,2729,204.3,10295.8,2288.0,8007.9,intercity,28097.0,6244.0,21854.0
+tcd_college_green,TCD,Dublin City,162,15988,6.2,310.2,155.1,155.1,zone,4959.0,2480.0,2480.0
+tcd_college_green,TCD,Dún Laoghaire-Rathdown,69,8026,11.5,578.1,289.1,289.1,zone,4640.0,2320.0,2320.0
+tcd_college_green,TCD,South Dublin,49,12169,14.5,731.5,365.7,365.7,zone,8902.0,4450.0,4450.0
+tcd_college_green,TCD,Fingal,42,13684,18.7,943.5,471.8,471.8,zone,12911.0,6456.0,6456.0
+tcd_college_green,TCD,Kildare,88,10683,43.8,2209.8,876.6,1333.2,zone,23607.0,9365.0,14243.0
+tcd_college_green,TCD,Wicklow,82,6462,45.6,2299.3,510.9,1788.3,intercity,14858.0,3301.0,11556.0
+tcd_college_green,TCD,Meath,92,9584,45.8,2307.5,512.8,1794.7,intercity,22115.0,4915.0,17200.0
+tcd_college_green,TCD,Louth,43,6018,70.8,3568.6,793.0,2775.5,intercity,21476.0,4772.0,16703.0
+tcd_college_green,TCD,Laois,94,3989,91.2,4594.1,1020.9,3573.2,intercity,18326.0,4072.0,14253.0
+tcd_college_green,TCD,Carlow,53,2429,94.8,4777.0,1061.6,3715.5,intercity,11603.0,2579.0,9025.0
+tcd_college_green,TCD,Westmeath,106,3927,95.9,4835.6,1074.6,3761.0,intercity,18989.0,4220.0,14769.0
+tcd_college_green,TCD,Offaly,85,3438,106.2,5353.8,1189.7,4164.0,intercity,18406.0,4090.0,14316.0
+tcd_college_green,TCD,Monaghan,69,2729,117.5,5924.0,1316.4,4607.5,intercity,16167.0,3592.0,12574.0
+tcd_college_green,TCD,Longford,52,1896,122.4,6168.0,1370.7,4797.3,intercity,11695.0,2599.0,9096.0
+tcd_college_green,TCD,Kilkenny,111,4299,134.9,6797.0,1510.4,5286.5,intercity,29220.0,6493.0,22727.0
+tud_blanchardstown,TU Dublin,Dublin City,162,15988,14.3,722.6,361.3,361.3,zone,11553.0,5776.0,5776.0
+tud_blanchardstown,TU Dublin,South Dublin,49,12169,15.7,788.8,394.4,394.4,zone,9599.0,4799.0,4799.0
+tud_blanchardstown,TU Dublin,Fingal,42,13684,17.1,862.4,431.2,431.2,zone,11801.0,5901.0,5901.0
+tud_blanchardstown,TU Dublin,Dún Laoghaire-Rathdown,69,8026,28.9,1454.2,727.1,727.1,zone,11671.0,5836.0,5836.0
+tud_blanchardstown,TU Dublin,Meath,92,9584,38.4,1933.7,429.7,1504.0,intercity,18533.0,4118.0,14414.0
+tud_blanchardstown,TU Dublin,Kildare,88,10683,41.5,2089.3,817.1,1272.2,zone,22320.0,8729.0,13591.0
+tud_blanchardstown,TU Dublin,Wicklow,82,6462,58.0,2923.9,649.8,2274.1,intercity,18894.0,4199.0,14695.0
+tud_blanchardstown,TU Dublin,Louth,43,6018,75.4,3802.3,845.0,2957.3,intercity,22882.0,5085.0,17797.0
+tud_blanchardstown,TU Dublin,Westmeath,106,3927,89.0,4487.9,997.3,3490.6,intercity,17624.0,3916.0,13708.0
+tud_blanchardstown,TU Dublin,Laois,94,3989,91.6,4617.6,1026.1,3591.5,intercity,18420.0,4093.0,14326.0
+tud_blanchardstown,TU Dublin,Carlow,53,2429,95.5,4812.2,1069.4,3742.8,intercity,11689.0,2598.0,9091.0
+tud_blanchardstown,TU Dublin,Offaly,85,3438,101.6,5123.1,1138.5,3984.6,intercity,17613.0,3914.0,13699.0
+tud_blanchardstown,TU Dublin,Longford,52,1896,115.9,5840.4,1297.9,4542.5,intercity,11073.0,2461.0,8613.0
+tud_blanchardstown,TU Dublin,Monaghan,69,2729,120.2,6059.4,1346.5,4712.9,intercity,16536.0,3675.0,12862.0
+tud_blanchardstown,TU Dublin,Kilkenny,111,4299,135.4,6823.3,1516.3,5307.0,intercity,29333.0,6519.0,22815.0
+tud_grangegorman,TU Dublin,Dublin City,162,15988,6.0,304.3,152.1,152.1,zone,4865.0,2432.0,2432.0
+tud_grangegorman,TU Dublin,South Dublin,49,12169,14.0,703.5,351.7,351.7,zone,8561.0,4280.0,4280.0
+tud_grangegorman,TU Dublin,Dún Laoghaire-Rathdown,69,8026,14.6,735.5,367.7,367.7,zone,5903.0,2951.0,2951.0
+tud_grangegorman,TU Dublin,Fingal,42,13684,17.3,873.7,436.8,436.8,zone,11956.0,5977.0,5977.0
+tud_grangegorman,TU Dublin,Kildare,88,10683,41.7,2101.8,828.5,1273.3,zone,22454.0,8851.0,13603.0
+tud_grangegorman,TU Dublin,Meath,92,9584,43.3,2182.9,485.1,1697.8,intercity,20921.0,4649.0,16272.0
+tud_grangegorman,TU Dublin,Wicklow,82,6462,48.3,2436.4,541.4,1895.0,intercity,15744.0,3499.0,12245.0
+tud_grangegorman,TU Dublin,Louth,43,6018,70.4,3548.4,788.5,2759.9,intercity,21354.0,4745.0,16609.0
+tud_grangegorman,TU Dublin,Laois,94,3989,89.7,4519.4,1004.3,3515.1,intercity,18028.0,4006.0,14022.0
+tud_grangegorman,TU Dublin,Westmeath,106,3927,92.9,4683.9,1040.9,3643.0,intercity,18394.0,4088.0,14306.0
+tud_grangegorman,TU Dublin,Carlow,53,2429,93.5,4712.4,1047.2,3665.2,intercity,11446.0,2544.0,8903.0
+tud_grangegorman,TU Dublin,Offaly,85,3438,103.8,5233.4,1163.0,4070.4,intercity,17992.0,3998.0,13994.0
+tud_grangegorman,TU Dublin,Monaghan,69,2729,117.1,5899.4,1311.0,4588.4,intercity,16099.0,3578.0,12522.0
+tud_grangegorman,TU Dublin,Longford,52,1896,119.4,6018.5,1337.4,4681.0,intercity,11411.0,2536.0,8875.0
+tud_grangegorman,TU Dublin,Kilkenny,111,4299,133.4,6722.0,1493.8,5228.2,intercity,28898.0,6422.0,22476.0
+tud_tallaght,TU Dublin,South Dublin,49,12169,7.1,355.5,177.8,177.8,zone,4326.0,2164.0,2164.0
+tud_tallaght,TU Dublin,Dublin City,162,15988,16.6,838.1,419.1,419.1,zone,13400.0,6701.0,6701.0
+tud_tallaght,TU Dublin,Dún Laoghaire-Rathdown,69,8026,16.8,845.4,422.7,422.7,zone,6785.0,3393.0,3393.0
+tud_tallaght,TU Dublin,Fingal,42,13684,28.6,1439.6,719.8,719.8,zone,19699.0,9850.0,9850.0
+tud_tallaght,TU Dublin,Kildare,88,10683,37.2,1876.5,737.9,1138.6,zone,20047.0,7883.0,12164.0
+tud_tallaght,TU Dublin,Wicklow,82,6462,45.2,2276.9,506.0,1770.9,intercity,14713.0,3270.0,11444.0
+tud_tallaght,TU Dublin,Meath,92,9584,51.3,2587.3,575.0,2012.4,intercity,24797.0,5511.0,19287.0
+tud_tallaght,TU Dublin,Laois,94,3989,82.8,4175.4,927.8,3247.5,intercity,16656.0,3701.0,12954.0
+tud_tallaght,TU Dublin,Carlow,53,2429,84.1,4240.9,942.4,3298.5,intercity,10301.0,2289.0,8012.0
+tud_tallaght,TU Dublin,Louth,43,6018,85.0,4282.8,951.7,3331.1,intercity,25774.0,5727.0,20047.0
+tud_tallaght,TU Dublin,Westmeath,106,3927,93.8,4729.6,1051.0,3678.6,intercity,18573.0,4127.0,14446.0
+tud_tallaght,TU Dublin,Offaly,85,3438,101.9,5136.9,1141.5,3995.3,intercity,17661.0,3924.0,13736.0
+tud_tallaght,TU Dublin,Longford,52,1896,119.8,6037.2,1341.6,4695.6,intercity,11447.0,2544.0,8903.0
+tud_tallaght,TU Dublin,Kilkenny,111,4299,126.6,6383.0,1418.4,4964.5,intercity,27441.0,6098.0,21342.0
+tud_tallaght,TU Dublin,Monaghan,69,2729,130.5,6575.9,1461.3,5114.6,intercity,17946.0,3988.0,13958.0
+tus_athlone,TUS,Longford,52,1896,44.3,2231.3,495.8,1735.5,intercity,4231.0,940.0,3291.0
+tus_athlone,TUS,Westmeath,106,3927,45.5,2293.8,509.7,1784.1,intercity,9008.0,2002.0,7006.0
+tus_athlone,TUS,Offaly,85,3438,48.4,2437.8,541.7,1896.1,intercity,8381.0,1862.0,6519.0
+tus_athlone,TUS,Laois,94,3989,82.5,4157.1,923.8,3233.3,intercity,16583.0,3685.0,12898.0
+tus_athlone,TUS,Kildare,88,10683,101.5,5113.8,1136.4,3977.4,intercity,54631.0,12140.0,42491.0
+tus_athlone,TUS,Meath,92,9584,116.8,5885.7,1307.9,4577.7,intercity,56409.0,12535.0,43873.0
+tus_athlone,TUS,South Dublin,49,12169,119.7,6032.5,1340.6,4692.0,intercity,73409.0,16314.0,57097.0
+tus_athlone,TUS,Dublin City,162,15988,125.8,6342.1,1409.3,4932.7,intercity,101397.0,22532.0,78864.0
+tus_athlone,TUS,Carlow,53,2429,126.4,6371.3,1415.8,4955.5,intercity,15476.0,3439.0,12037.0
+tus_athlone,TUS,Monaghan,69,2729,131.3,6618.8,1470.8,5147.9,intercity,18063.0,4014.0,14049.0
+tus_athlone,TUS,Fingal,42,13684,131.5,6628.8,1473.1,5155.7,intercity,90708.0,20158.0,70551.0
+tus_athlone,TUS,Dún Laoghaire-Rathdown,69,8026,136.0,6854.2,1523.2,5331.0,intercity,55012.0,12225.0,42787.0
+tus_athlone,TUS,Kilkenny,111,4299,140.6,7084.2,1574.3,5510.0,intercity,30455.0,6768.0,23687.0
+tus_athlone,TUS,Louth,43,6018,149.1,7512.5,1669.4,5843.0,intercity,45210.0,10046.0,35163.0
+tus_athlone,TUS,Wicklow,82,6462,157.8,7951.7,1767.0,6184.7,intercity,51384.0,11418.0,39966.0
+ucd_belfield,UCD,Dún Laoghaire-Rathdown,69,8026,7.5,376.8,188.4,188.4,zone,3024.0,1512.0,1512.0
+ucd_belfield,UCD,Dublin City,162,15988,10.3,517.6,258.8,258.8,zone,8275.0,4138.0,4138.0
+ucd_belfield,UCD,South Dublin,49,12169,16.1,811.3,405.7,405.7,zone,9873.0,4937.0,4937.0
+ucd_belfield,UCD,Fingal,42,13684,25.5,1283.5,641.7,641.7,zone,17563.0,8781.0,8781.0
+ucd_belfield,UCD,Wicklow,82,6462,41.0,2065.2,458.9,1606.3,intercity,13345.0,2965.0,10380.0
+ucd_belfield,UCD,Kildare,88,10683,46.1,2324.5,926.2,1398.2,zone,24833.0,9895.0,14937.0
+ucd_belfield,UCD,Meath,92,9584,52.9,2665.8,592.4,2073.4,intercity,25549.0,5678.0,19871.0
+ucd_belfield,UCD,Louth,43,6018,77.7,3915.5,870.1,3045.4,intercity,23563.0,5236.0,18327.0
+ucd_belfield,UCD,Laois,94,3989,93.4,4706.4,1045.9,3660.5,intercity,18774.0,4172.0,14602.0
+ucd_belfield,UCD,Carlow,53,2429,97.1,4893.6,1087.5,3806.2,intercity,11887.0,2642.0,9245.0
+ucd_belfield,UCD,Westmeath,106,3927,99.0,4991.1,1109.1,3882.0,intercity,19600.0,4355.0,15245.0
+ucd_belfield,UCD,Offaly,85,3438,108.7,5477.1,1217.1,4260.0,intercity,18830.0,4184.0,14646.0
+ucd_belfield,UCD,Monaghan,69,2729,124.5,6272.6,1393.9,4878.7,intercity,17118.0,3804.0,13314.0
+ucd_belfield,UCD,Longford,52,1896,125.0,6298.7,1399.7,4899.0,intercity,11942.0,2654.0,9289.0
+ucd_belfield,UCD,Kilkenny,111,4299,136.5,6881.2,1529.1,5352.0,intercity,29582.0,6574.0,23008.0

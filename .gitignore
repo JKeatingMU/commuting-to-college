@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/processed/
+data/osrm/
+data/raw/cso-saps-2022-20260827.zip
+data/raw/cso-small-areas-2022-20260827.geojson
+data/raw/cso-builtup-areas-2022-20260827.geojson
+data/raw/tfi-gtfs-all-20260827.zip
+data/raw/ireland-osm-20260827.osm.pbf
+data/raw/cao-computing-courses-2025-20260827.json

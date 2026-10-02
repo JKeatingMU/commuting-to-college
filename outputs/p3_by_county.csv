@@ -1,0 +1,361 @@
+schedule,mode,target,county,cohort_share
+late,car,any_hei,Carlow,1.0
+late,car,any_hei,Dublin City,1.0
+late,car,any_hei,Dún Laoghaire-Rathdown,1.0
+late,car,any_hei,Fingal,1.0
+late,car,any_hei,Kildare,1.0
+late,car,any_hei,Kilkenny,0.764
+late,car,any_hei,Laois,0.935
+late,car,any_hei,Longford,0.797
+late,car,any_hei,Louth,1.0
+late,car,any_hei,Meath,0.965
+late,car,any_hei,Monaghan,0.758
+late,car,any_hei,Offaly,0.943
+late,car,any_hei,South Dublin,1.0
+late,car,any_hei,Westmeath,0.868
+late,car,any_hei,Wicklow,0.835
+late,car,university,Carlow,1.0
+late,car,university,Dublin City,1.0
+late,car,university,Dún Laoghaire-Rathdown,1.0
+late,car,university,Fingal,1.0
+late,car,university,Kildare,1.0
+late,car,university,Kilkenny,0.764
+late,car,university,Laois,0.935
+late,car,university,Longford,0.797
+late,car,university,Louth,0.412
+late,car,university,Meath,0.929
+late,car,university,Monaghan,0.0
+late,car,university,Offaly,0.943
+late,car,university,South Dublin,1.0
+late,car,university,Westmeath,0.868
+late,car,university,Wicklow,0.806
+late,car,maynooth,Carlow,0.0
+late,car,maynooth,Dublin City,1.0
+late,car,maynooth,Dún Laoghaire-Rathdown,1.0
+late,car,maynooth,Fingal,1.0
+late,car,maynooth,Kildare,0.984
+late,car,maynooth,Kilkenny,0.0
+late,car,maynooth,Laois,0.026
+late,car,maynooth,Longford,0.0
+late,car,maynooth,Louth,0.183
+late,car,maynooth,Meath,0.849
+late,car,maynooth,Monaghan,0.0
+late,car,maynooth,Offaly,0.216
+late,car,maynooth,South Dublin,1.0
+late,car,maynooth,Westmeath,0.5
+late,car,maynooth,Wicklow,0.53
+late,car,regional_hei,Carlow,1.0
+late,car,regional_hei,Dublin City,0.0
+late,car,regional_hei,Dún Laoghaire-Rathdown,0.0
+late,car,regional_hei,Fingal,0.265
+late,car,regional_hei,Kildare,0.623
+late,car,regional_hei,Kilkenny,0.764
+late,car,regional_hei,Laois,0.935
+late,car,regional_hei,Longford,0.797
+late,car,regional_hei,Louth,1.0
+late,car,regional_hei,Meath,0.512
+late,car,regional_hei,Monaghan,0.758
+late,car,regional_hei,Offaly,0.904
+late,car,regional_hei,South Dublin,0.032
+late,car,regional_hei,Westmeath,0.839
+late,car,regional_hei,Wicklow,0.167
+late,pt,any_hei,Carlow,0.343
+late,pt,any_hei,Dublin City,1.0
+late,pt,any_hei,Dún Laoghaire-Rathdown,0.997
+late,pt,any_hei,Fingal,0.615
+late,pt,any_hei,Kildare,0.296
+late,pt,any_hei,Kilkenny,0.0
+late,pt,any_hei,Laois,0.071
+late,pt,any_hei,Longford,0.0
+late,pt,any_hei,Louth,0.274
+late,pt,any_hei,Meath,0.138
+late,pt,any_hei,Monaghan,0.0
+late,pt,any_hei,Offaly,0.0
+late,pt,any_hei,South Dublin,0.961
+late,pt,any_hei,Westmeath,0.163
+late,pt,any_hei,Wicklow,0.194
+late,pt,university,Carlow,0.343
+late,pt,university,Dublin City,1.0
+late,pt,university,Dún Laoghaire-Rathdown,0.979
+late,pt,university,Fingal,0.559
+late,pt,university,Kildare,0.296
+late,pt,university,Kilkenny,0.0
+late,pt,university,Laois,0.071
+late,pt,university,Longford,0.0
+late,pt,university,Louth,0.0
+late,pt,university,Meath,0.138
+late,pt,university,Monaghan,0.0
+late,pt,university,Offaly,0.0
+late,pt,university,South Dublin,0.961
+late,pt,university,Westmeath,0.163
+late,pt,university,Wicklow,0.194
+late,pt,maynooth,Carlow,0.0
+late,pt,maynooth,Dublin City,0.014
+late,pt,maynooth,Dún Laoghaire-Rathdown,0.0
+late,pt,maynooth,Fingal,0.012
+late,pt,maynooth,Kildare,0.296
+late,pt,maynooth,Kilkenny,0.0
+late,pt,maynooth,Laois,0.0
+late,pt,maynooth,Longford,0.0
+late,pt,maynooth,Louth,0.0
+late,pt,maynooth,Meath,0.021
+late,pt,maynooth,Monaghan,0.0
+late,pt,maynooth,Offaly,0.0
+late,pt,maynooth,South Dublin,0.084
+late,pt,maynooth,Westmeath,0.0
+late,pt,maynooth,Wicklow,0.0
+late,pt,regional_hei,Carlow,0.343
+late,pt,regional_hei,Dublin City,0.0
+late,pt,regional_hei,Dún Laoghaire-Rathdown,0.0
+late,pt,regional_hei,Fingal,0.0
+late,pt,regional_hei,Kildare,0.0
+late,pt,regional_hei,Kilkenny,0.0
+late,pt,regional_hei,Laois,0.071
+late,pt,regional_hei,Longford,0.0
+late,pt,regional_hei,Louth,0.274
+late,pt,regional_hei,Meath,0.0
+late,pt,regional_hei,Monaghan,0.0
+late,pt,regional_hei,Offaly,0.0
+late,pt,regional_hei,South Dublin,0.0
+late,pt,regional_hei,Westmeath,0.163
+late,pt,regional_hei,Wicklow,0.0
+late,pt_plus_rail,any_hei,Carlow,0.751
+late,pt_plus_rail,any_hei,Dublin City,1.0
+late,pt_plus_rail,any_hei,Dún Laoghaire-Rathdown,1.0
+late,pt_plus_rail,any_hei,Fingal,1.0
+late,pt_plus_rail,any_hei,Kildare,0.762
+late,pt_plus_rail,any_hei,Kilkenny,0.021
+late,pt_plus_rail,any_hei,Laois,0.156
+late,pt_plus_rail,any_hei,Longford,0.193
+late,pt_plus_rail,any_hei,Louth,0.632
+late,pt_plus_rail,any_hei,Meath,0.434
+late,pt_plus_rail,any_hei,Monaghan,0.214
+late,pt_plus_rail,any_hei,Offaly,0.542
+late,pt_plus_rail,any_hei,South Dublin,1.0
+late,pt_plus_rail,any_hei,Westmeath,0.432
+late,pt_plus_rail,any_hei,Wicklow,0.481
+late,pt_plus_rail,university,Carlow,0.751
+late,pt_plus_rail,university,Dublin City,1.0
+late,pt_plus_rail,university,Dún Laoghaire-Rathdown,1.0
+late,pt_plus_rail,university,Fingal,1.0
+late,pt_plus_rail,university,Kildare,0.762
+late,pt_plus_rail,university,Kilkenny,0.021
+late,pt_plus_rail,university,Laois,0.156
+late,pt_plus_rail,university,Longford,0.193
+late,pt_plus_rail,university,Louth,0.0
+late,pt_plus_rail,university,Meath,0.434
+late,pt_plus_rail,university,Monaghan,0.0
+late,pt_plus_rail,university,Offaly,0.542
+late,pt_plus_rail,university,South Dublin,1.0
+late,pt_plus_rail,university,Westmeath,0.432
+late,pt_plus_rail,university,Wicklow,0.431
+late,pt_plus_rail,maynooth,Carlow,0.0
+late,pt_plus_rail,maynooth,Dublin City,0.966
+late,pt_plus_rail,maynooth,Dún Laoghaire-Rathdown,0.57
+late,pt_plus_rail,maynooth,Fingal,0.601
+late,pt_plus_rail,maynooth,Kildare,0.698
+late,pt_plus_rail,maynooth,Kilkenny,0.0
+late,pt_plus_rail,maynooth,Laois,0.0
+late,pt_plus_rail,maynooth,Longford,0.0
+late,pt_plus_rail,maynooth,Louth,0.0
+late,pt_plus_rail,maynooth,Meath,0.378
+late,pt_plus_rail,maynooth,Monaghan,0.0
+late,pt_plus_rail,maynooth,Offaly,0.108
+late,pt_plus_rail,maynooth,South Dublin,1.0
+late,pt_plus_rail,maynooth,Westmeath,0.053
+late,pt_plus_rail,maynooth,Wicklow,0.003
+late,pt_plus_rail,regional_hei,Carlow,0.751
+late,pt_plus_rail,regional_hei,Dublin City,0.0
+late,pt_plus_rail,regional_hei,Dún Laoghaire-Rathdown,0.0
+late,pt_plus_rail,regional_hei,Fingal,0.0
+late,pt_plus_rail,regional_hei,Kildare,0.064
+late,pt_plus_rail,regional_hei,Kilkenny,0.021
+late,pt_plus_rail,regional_hei,Laois,0.156
+late,pt_plus_rail,regional_hei,Longford,0.193
+late,pt_plus_rail,regional_hei,Louth,0.632
+late,pt_plus_rail,regional_hei,Meath,0.0
+late,pt_plus_rail,regional_hei,Monaghan,0.214
+late,pt_plus_rail,regional_hei,Offaly,0.433
+late,pt_plus_rail,regional_hei,South Dublin,0.0
+late,pt_plus_rail,regional_hei,Westmeath,0.379
+late,pt_plus_rail,regional_hei,Wicklow,0.0
+peak,car,any_hei,Carlow,0.995
+peak,car,any_hei,Dublin City,1.0
+peak,car,any_hei,Dún Laoghaire-Rathdown,1.0
+peak,car,any_hei,Fingal,1.0
+peak,car,any_hei,Kildare,0.995
+peak,car,any_hei,Kilkenny,0.702
+peak,car,any_hei,Laois,0.883
+peak,car,any_hei,Longford,0.657
+peak,car,any_hei,Louth,1.0
+peak,car,any_hei,Meath,0.938
+peak,car,any_hei,Monaghan,0.69
+peak,car,any_hei,Offaly,0.887
+peak,car,any_hei,South Dublin,1.0
+peak,car,any_hei,Westmeath,0.833
+peak,car,any_hei,Wicklow,0.791
+peak,car,university,Carlow,0.995
+peak,car,university,Dublin City,1.0
+peak,car,university,Dún Laoghaire-Rathdown,1.0
+peak,car,university,Fingal,1.0
+peak,car,university,Kildare,0.995
+peak,car,university,Kilkenny,0.702
+peak,car,university,Laois,0.883
+peak,car,university,Longford,0.657
+peak,car,university,Louth,0.32
+peak,car,university,Meath,0.897
+peak,car,university,Monaghan,0.0
+peak,car,university,Offaly,0.887
+peak,car,university,South Dublin,1.0
+peak,car,university,Westmeath,0.833
+peak,car,university,Wicklow,0.641
+peak,car,maynooth,Carlow,0.0
+peak,car,maynooth,Dublin City,1.0
+peak,car,maynooth,Dún Laoghaire-Rathdown,1.0
+peak,car,maynooth,Fingal,1.0
+peak,car,maynooth,Kildare,0.912
+peak,car,maynooth,Kilkenny,0.0
+peak,car,maynooth,Laois,0.006
+peak,car,maynooth,Longford,0.0
+peak,car,maynooth,Louth,0.0
+peak,car,maynooth,Meath,0.757
+peak,car,maynooth,Monaghan,0.0
+peak,car,maynooth,Offaly,0.179
+peak,car,maynooth,South Dublin,1.0
+peak,car,maynooth,Westmeath,0.454
+peak,car,maynooth,Wicklow,0.498
+peak,car,regional_hei,Carlow,0.995
+peak,car,regional_hei,Dublin City,0.0
+peak,car,regional_hei,Dún Laoghaire-Rathdown,0.0
+peak,car,regional_hei,Fingal,0.152
+peak,car,regional_hei,Kildare,0.571
+peak,car,regional_hei,Kilkenny,0.702
+peak,car,regional_hei,Laois,0.883
+peak,car,regional_hei,Longford,0.657
+peak,car,regional_hei,Louth,1.0
+peak,car,regional_hei,Meath,0.293
+peak,car,regional_hei,Monaghan,0.69
+peak,car,regional_hei,Offaly,0.737
+peak,car,regional_hei,South Dublin,0.0
+peak,car,regional_hei,Westmeath,0.777
+peak,car,regional_hei,Wicklow,0.112
+peak,pt,any_hei,Carlow,0.343
+peak,pt,any_hei,Dublin City,1.0
+peak,pt,any_hei,Dún Laoghaire-Rathdown,0.997
+peak,pt,any_hei,Fingal,0.664
+peak,pt,any_hei,Kildare,0.296
+peak,pt,any_hei,Kilkenny,0.0
+peak,pt,any_hei,Laois,0.071
+peak,pt,any_hei,Longford,0.0
+peak,pt,any_hei,Louth,0.274
+peak,pt,any_hei,Meath,0.094
+peak,pt,any_hei,Monaghan,0.0
+peak,pt,any_hei,Offaly,0.0
+peak,pt,any_hei,South Dublin,0.949
+peak,pt,any_hei,Westmeath,0.193
+peak,pt,any_hei,Wicklow,0.194
+peak,pt,university,Carlow,0.343
+peak,pt,university,Dublin City,0.996
+peak,pt,university,Dún Laoghaire-Rathdown,0.979
+peak,pt,university,Fingal,0.664
+peak,pt,university,Kildare,0.296
+peak,pt,university,Kilkenny,0.0
+peak,pt,university,Laois,0.071
+peak,pt,university,Longford,0.0
+peak,pt,university,Louth,0.0
+peak,pt,university,Meath,0.094
+peak,pt,university,Monaghan,0.0
+peak,pt,university,Offaly,0.0
+peak,pt,university,South Dublin,0.949
+peak,pt,university,Westmeath,0.193
+peak,pt,university,Wicklow,0.194
+peak,pt,maynooth,Carlow,0.0
+peak,pt,maynooth,Dublin City,0.007
+peak,pt,maynooth,Dún Laoghaire-Rathdown,0.0
+peak,pt,maynooth,Fingal,0.22
+peak,pt,maynooth,Kildare,0.296
+peak,pt,maynooth,Kilkenny,0.0
+peak,pt,maynooth,Laois,0.0
+peak,pt,maynooth,Longford,0.0
+peak,pt,maynooth,Louth,0.0
+peak,pt,maynooth,Meath,0.021
+peak,pt,maynooth,Monaghan,0.0
+peak,pt,maynooth,Offaly,0.0
+peak,pt,maynooth,South Dublin,0.227
+peak,pt,maynooth,Westmeath,0.0
+peak,pt,maynooth,Wicklow,0.0
+peak,pt,regional_hei,Carlow,0.343
+peak,pt,regional_hei,Dublin City,0.0
+peak,pt,regional_hei,Dún Laoghaire-Rathdown,0.0
+peak,pt,regional_hei,Fingal,0.0
+peak,pt,regional_hei,Kildare,0.0
+peak,pt,regional_hei,Kilkenny,0.0
+peak,pt,regional_hei,Laois,0.071
+peak,pt,regional_hei,Longford,0.0
+peak,pt,regional_hei,Louth,0.274
+peak,pt,regional_hei,Meath,0.0
+peak,pt,regional_hei,Monaghan,0.0
+peak,pt,regional_hei,Offaly,0.0
+peak,pt,regional_hei,South Dublin,0.0
+peak,pt,regional_hei,Westmeath,0.193
+peak,pt,regional_hei,Wicklow,0.0
+peak,pt_plus_rail,any_hei,Carlow,0.66
+peak,pt_plus_rail,any_hei,Dublin City,1.0
+peak,pt_plus_rail,any_hei,Dún Laoghaire-Rathdown,1.0
+peak,pt_plus_rail,any_hei,Fingal,1.0
+peak,pt_plus_rail,any_hei,Kildare,0.63
+peak,pt_plus_rail,any_hei,Kilkenny,0.014
+peak,pt_plus_rail,any_hei,Laois,0.141
+peak,pt_plus_rail,any_hei,Longford,0.135
+peak,pt_plus_rail,any_hei,Louth,0.574
+peak,pt_plus_rail,any_hei,Meath,0.347
+peak,pt_plus_rail,any_hei,Monaghan,0.085
+peak,pt_plus_rail,any_hei,Offaly,0.229
+peak,pt_plus_rail,any_hei,South Dublin,1.0
+peak,pt_plus_rail,any_hei,Westmeath,0.392
+peak,pt_plus_rail,any_hei,Wicklow,0.245
+peak,pt_plus_rail,university,Carlow,0.66
+peak,pt_plus_rail,university,Dublin City,1.0
+peak,pt_plus_rail,university,Dún Laoghaire-Rathdown,1.0
+peak,pt_plus_rail,university,Fingal,0.972
+peak,pt_plus_rail,university,Kildare,0.625
+peak,pt_plus_rail,university,Kilkenny,0.014
+peak,pt_plus_rail,university,Laois,0.141
+peak,pt_plus_rail,university,Longford,0.135
+peak,pt_plus_rail,university,Louth,0.0
+peak,pt_plus_rail,university,Meath,0.312
+peak,pt_plus_rail,university,Monaghan,0.0
+peak,pt_plus_rail,university,Offaly,0.229
+peak,pt_plus_rail,university,South Dublin,1.0
+peak,pt_plus_rail,university,Westmeath,0.392
+peak,pt_plus_rail,university,Wicklow,0.245
+peak,pt_plus_rail,maynooth,Carlow,0.0
+peak,pt_plus_rail,maynooth,Dublin City,0.859
+peak,pt_plus_rail,maynooth,Dún Laoghaire-Rathdown,0.335
+peak,pt_plus_rail,maynooth,Fingal,0.532
+peak,pt_plus_rail,maynooth,Kildare,0.577
+peak,pt_plus_rail,maynooth,Kilkenny,0.0
+peak,pt_plus_rail,maynooth,Laois,0.0
+peak,pt_plus_rail,maynooth,Longford,0.0
+peak,pt_plus_rail,maynooth,Louth,0.0
+peak,pt_plus_rail,maynooth,Meath,0.254
+peak,pt_plus_rail,maynooth,Monaghan,0.0
+peak,pt_plus_rail,maynooth,Offaly,0.0
+peak,pt_plus_rail,maynooth,South Dublin,1.0
+peak,pt_plus_rail,maynooth,Westmeath,0.042
+peak,pt_plus_rail,maynooth,Wicklow,0.0
+peak,pt_plus_rail,regional_hei,Carlow,0.66
+peak,pt_plus_rail,regional_hei,Dublin City,0.0
+peak,pt_plus_rail,regional_hei,Dún Laoghaire-Rathdown,0.0
+peak,pt_plus_rail,regional_hei,Fingal,0.0
+peak,pt_plus_rail,regional_hei,Kildare,0.048
+peak,pt_plus_rail,regional_hei,Kilkenny,0.014
+peak,pt_plus_rail,regional_hei,Laois,0.141
+peak,pt_plus_rail,regional_hei,Longford,0.135
+peak,pt_plus_rail,regional_hei,Louth,0.574
+peak,pt_plus_rail,regional_hei,Meath,0.0
+peak,pt_plus_rail,regional_hei,Monaghan,0.085
+peak,pt_plus_rail,regional_hei,Offaly,0.229
+peak,pt_plus_rail,regional_hei,South Dublin,0.0
+peak,pt_plus_rail,regional_hei,Westmeath,0.35
+peak,pt_plus_rail,regional_hei,Wicklow,0.0
