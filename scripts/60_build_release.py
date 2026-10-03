@@ -55,7 +55,7 @@ RAW = [
     ("cso-f7065-2022-20261002.json", "CSO PxStat F7065 (JSON-stat 2.0): "
      "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/F7065/JSON-stat/2.0/en", "CC BY 4.0", True),
     (f"tfi-gtfs-all-{C.SNAPSHOT}.zip", "National Transport Authority, Transport for Ireland GTFS (all operators): "
-     "https://www.transportforireland.ie/transitData/Data/GTFS_All.zip (archived with the Zenodo record)", "CC BY 4.0", False),
+     "https://www.transportforireland.ie/transitData/Data/GTFS_All.zip; this snapshot archived at https://doi.org/10.5281/zenodo.23121634", "CC BY 4.0", False),
     (f"ireland-osm-{C.SNAPSHOT}.osm.pbf", "OpenStreetMap via Geofabrik, ireland-and-northern-ireland extract of "
      f"{C.SNAPSHOT[:4]}-{C.SNAPSHOT[4:6]}-{C.SNAPSHOT[6:]}: https://download.geofabrik.de/europe/ireland-and-northern-ireland.html",
      "ODbL 1.0", False),

@@ -60,7 +60,7 @@ enrolment model shows a strong association, not proof that the commute causes th
    OSRM car graph; script `22` (r5py public-transport matrices) is the slow one.
 
 Public-transport times depend on the timetable snapshot. Operators do not keep old timetables online, so the exact
-GTFS file used is archived with the Zenodo record for this version.
+GTFS file used (27 August 2026) is archived as its own Zenodo record: [10.5281/zenodo.23121634](https://doi.org/10.5281/zenodo.23121634).
 
 ## Data and licences
 

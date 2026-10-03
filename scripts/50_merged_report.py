@@ -503,7 +503,7 @@ function areaRoute(id){
 // ---------- methods ----------
 const SOURCES = [
   ["CSO Census 2022 Small Area Population Statistics (incl. car availability) and boundaries; Tailte \u00c9ireann Small Areas", "Population, area weights and centres, car availability, area and county shapes", "27 Aug 2026", "CC BY 4.0 (confirmed)"],
-  ["National Transport Authority GTFS (Transport for Ireland, all operators)", "Public-transport timetables", "27 Aug 2026", "CC BY 4.0 (confirmed)"],
+  ["National Transport Authority GTFS (Transport for Ireland, all operators); the snapshot used is archived at <a href=\"https://doi.org/10.5281/zenodo.23121634\">doi.org/10.5281/zenodo.23121634</a>", "Public-transport timetables", "27 Aug 2026", "CC BY 4.0 (confirmed)"],
   ["OpenStreetMap, Geofabrik Ireland extract", "Street and road network for routing (r5py, OSRM)", "27 Aug 2026", "ODbL 1.0 (confirmed); the derived tables are released under ODbL"],
   ["geoBoundaries IRL ADM1 / ADM2 (source: Ordnance Survey Ireland)", "Map outlines", "27 Aug 2026", "CC BY 4.0 (confirmed)"],
   ["Department of Education, Data on Individual Schools: post-primary, final 2025/26 (October Returns)", "Schools in the catchment; Leaving Certificate pupils for the shortlist", "2 Oct 2026", "CC BY 4.0 (confirmed, data.gov.ie record \"Data on Individual Schools\")"],
