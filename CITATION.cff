@@ -21,8 +21,8 @@ license: CC-BY-4.0
 repository-code: "https://github.com/JKeatingMU/commuting-to-college"
 url: "https://jkeatingmu.github.io/commuting-to-college/"
 abstract: >-
-  Models weekday commutes by public transport and by car from 1,197 Electoral Divisions in 15 Leinster counties to
-  14 higher-education campuses, at two times of day, with the annual cost and carbon of each journey, its
+  Models weekday commutes by public transport and by car from 1,197 Electoral Divisions across Leinster (except
+  Wexford) and County Monaghan to 14 higher-education campuses, at two times of day, with the annual cost and carbon of each journey, its
   distribution by area deprivation and car availability, a validation against Census 2022 journeys, and a
   county-scale model of whether accessibility predicts where new entrants enrol. Individual research and analysis, not an official
   Maynooth University publication. Code MIT; derived tables ODbL 1.0; report CC BY 4.0.

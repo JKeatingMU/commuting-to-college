@@ -326,8 +326,8 @@
   <p class="disclaim">This is individual research and analysis. The views, interpretations and any errors are my own; it is not an official Maynooth University publication and does not represent the University&rsquo;s position. <a href="#methods/m-about">About this analysis</a>.</p>
   <p class="lead">How long, how costly and how carbon-heavy is the daily journey from home to college for
     the young people of Leinster, and does it shape where they choose to study? The study models a weekday
-    commute from every one of <b id="hEd"></b> Electoral Divisions in 15 counties to 14 higher-education
-    campuses, by public transport and by car, for the <b id="hCoh"></b> people aged 17 to 19 who live there.</p>
+    commute from every one of <b id="hEd"></b> Electoral Divisions across Leinster (except Wexford) and Monaghan
+    to 14 higher-education campuses, by public transport and by car, for the <b id="hCoh"></b> people aged 17 to 19 who live there.</p>
   <div class="answer" id="answer"></div>
   <div class="tiles" id="tiles"></div>
   <h2>Where would you like to start?</h2>
@@ -842,7 +842,7 @@
   Education Authority uses for its socio-economic profiles of students. Does college sit further away, and cost more to
   reach, for young people from disadvantaged areas?</p>
 <div class="controls"><label>Areas <select id="b-area">
-  <option value="all">All 15 counties</option><option value="dub">Dublin (four council areas)</option>
+  <option value="all">All 15 county areas</option><option value="dub">Dublin (four council areas)</option>
   <option value="out">Outside Dublin</option></select></label>
   <label>Map colour <select id="b-depMap"><option value="band">Deprivation band</option>
   <option value="time">Public-transport time</option></select></label></div>
@@ -2586,7 +2586,7 @@ SECTIONS.reach = (() => {
   NCAD, RCSI, IADT); the rest are approached mostly from outside the M50. This is a deliberate simplification: it keys off the
   destination, not the route, so a drive from Athlone to a Dublin campus gets the same &times;1.50 whether or not the M50 is on
   the path. A one-way drive over 150&nbsp;minutes is treated as not a daily commute.</p>
-  <div class="m-standalone"><p><b>Population.</b> 1,197 Electoral Divisions in 15 counties, each represented by its population-weighted centre (from
+  <div class="m-standalone"><p><b>Population.</b> 1,197 Electoral Divisions in 15 county areas (Leinster except Wexford, plus Monaghan; Dublin's four council areas counted separately), each represented by its population-weighted centre (from
   Census 2022 Small Areas) and weighted by its college-entry cohort (${D.meta.cohort.toLocaleString("en-IE")} in all). The census
   counts third-level students at their term-time address, so its 18 and 19 year olds cluster beside campuses; each area's
   weight is therefore its 15 to 17 year olds, who still live at home, scaled so the regional total equals the census
@@ -2809,7 +2809,7 @@ SECTIONS.valid = (() => {
     <b>F7145</b> (average journey time and means of travel, by town) and <b>F7065</b> (means of travel, by county).</p>
     <h4>Do students drive where the model says the car saves most time?</h4>
     <p>For each county, the share of students who travel to college by car (driver or passenger), against the median
-    time the model says a car saves over public transport with drive-to-rail. The correlation across the 15 counties is
+    time the model says a car saves over public transport with drive-to-rail. The correlation across the 15 county areas is
     <b>${S.r_cty}</b>: where public transport is relatively slow, students drive.</p>
     <div class="vgrid">
       <div class="cmapbox"><h4>Students who drive (census)</h4><svg id="v-map1"></svg><div class="clg" id="v-map1Lg"></div></div>
@@ -3088,8 +3088,9 @@ function methodsInit(){
     <p><b>The question.</b> How long, how costly and how carbon-heavy is the daily journey from home to a higher-education
     campus for the young people of Leinster, and does it shape where they enrol? The study measures <i>potential</i>
     accessibility, the journey a student could make, and then tests it against where students actually went.</p>
-    <p><b>Where.</b> Fifteen counties: the four Dublin council areas, Kildare, Meath, Wicklow, Westmeath, Longford, Offaly,
-    Laois, Louth, Monaghan, Carlow and Kilkenny. <b>Who.</b> ${fmt(T.eds.length)} Electoral Divisions, each represented by its
+    <p><b>Where.</b> Fifteen county areas: the four Dublin council areas (Dublin City, D&uacute;n Laoghaire-Rathdown, Fingal and
+    South Dublin), Kildare, Meath, Wicklow, Westmeath, Longford, Offaly, Laois, Louth, Carlow, Kilkenny and Monaghan. That is
+    all of Leinster except Wexford, plus Monaghan in Ulster. <b>Who.</b> ${fmt(T.eds.length)} Electoral Divisions, each represented by its
     population-weighted centre (from Census 2022 Small Areas) and weighted by its 17 to 19 year olds, the college-entry
     cohort: ${fmt(H.cohort)} people in all. Because the census counts third-level students at their term-time address, its
     18 and 19 year olds cluster beside campuses (Rathfarnham, beside UCD's residences, has 724 aged 18 to 19 against 99 aged
@@ -3176,7 +3177,7 @@ function methodsInit(){
     `<tr><td class="l" style="white-space:normal">${s[0]}</td><td class="l" style="white-space:normal">${s[1]}</td><td class="l">${s[2]}</td><td class="l" style="white-space:normal">${s[3]}</td></tr>`).join("");
   document.getElementById("verTbl").innerHTML = [
     ["Phase 1 to 2", "Aug 2026", "Pilot: 18 towns, then 584 Electoral Divisions in Dublin and the commuter counties, public transport only"],
-    ["Phase 3", "Aug 2026", "1,197 Electoral Divisions in 15 counties, 14 campuses, car mode, two timetables, commuter coaches, schools"],
+    ["Phase 3", "Aug 2026", "1,197 Electoral Divisions in 15 county areas, 14 campuses, car mode, two timetables, commuter coaches, schools"],
     ["Cost and emissions", "Sep 2026", "Annual commute cost (January 2027 fares) and CO₂ by mode"],
     ["Phase 4a", "Aug to Sep 2026", "County-scale enrolment model, eight fields of study"],
     ["Corrections", "2 Oct 2026", "Commuter-coach fare catchment widened to every stop; Dún Laoghaire-Rathdown added to the Dublin fare zone"],

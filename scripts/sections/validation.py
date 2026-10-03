@@ -71,7 +71,7 @@ SECTIONS.valid = (() => {
     <b>F7145</b> (average journey time and means of travel, by town) and <b>F7065</b> (means of travel, by county).</p>
     <h4>Do students drive where the model says the car saves most time?</h4>
     <p>For each county, the share of students who travel to college by car (driver or passenger), against the median
-    time the model says a car saves over public transport with drive-to-rail. The correlation across the 15 counties is
+    time the model says a car saves over public transport with drive-to-rail. The correlation across the 15 county areas is
     <b>${S.r_cty}</b>: where public transport is relatively slow, students drive.</p>
     <div class="vgrid">
       <div class="cmapbox"><h4>Students who drive (census)</h4><svg id="v-map1"></svg><div class="clg" id="v-map1Lg"></div></div>

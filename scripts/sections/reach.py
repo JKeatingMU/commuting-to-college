@@ -957,7 +957,7 @@ SECTIONS.reach = (() => {
   NCAD, RCSI, IADT); the rest are approached mostly from outside the M50. This is a deliberate simplification: it keys off the
   destination, not the route, so a drive from Athlone to a Dublin campus gets the same &times;1.50 whether or not the M50 is on
   the path. A one-way drive over 150&nbsp;minutes is treated as not a daily commute.</p>
-  <div class="m-standalone"><p><b>Population.</b> 1,197 Electoral Divisions in 15 counties, each represented by its population-weighted centre (from
+  <div class="m-standalone"><p><b>Population.</b> 1,197 Electoral Divisions in 15 county areas (Leinster except Wexford, plus Monaghan; Dublin's four council areas counted separately), each represented by its population-weighted centre (from
   Census 2022 Small Areas) and weighted by its college-entry cohort (${D.meta.cohort.toLocaleString("en-IE")} in all). The census
   counts third-level students at their term-time address, so its 18 and 19 year olds cluster beside campuses; each area's
   weight is therefore its 15 to 17 year olds, who still live at home, scaled so the regional total equals the census

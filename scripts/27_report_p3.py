@@ -13,7 +13,7 @@ from sections.common import standalone
 def main() -> None:
     html = standalone(
         reach, "Who Can Reach Which Campus", "Commuting to College &middot; accessibility",
-        "How much of the 17 to 19 cohort in 1,197 Electoral Divisions across 15 counties can reach each of 14 "
+        "How much of the 17 to 19 cohort in 1,197 Electoral Divisions across Leinster (except Wexford) and Monaghan can reach each of 14 "
         "higher-education campuses, by public transport, by public transport with a drive to the train, and by "
         "car, at two times of day. Includes the Maynooth commuter-coach network and the post-primary schools "
         "within each campus's reach.")

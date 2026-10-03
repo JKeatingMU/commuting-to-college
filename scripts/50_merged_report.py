@@ -212,8 +212,8 @@ _TEMPLATE = r"""<!doctype html>
   <p class="disclaim">This is individual research and analysis. The views, interpretations and any errors are my own; it is not an official Maynooth University publication and does not represent the University&rsquo;s position. <a href="#methods/m-about">About this analysis</a>.</p>
   <p class="lead">How long, how costly and how carbon-heavy is the daily journey from home to college for
     the young people of Leinster, and does it shape where they choose to study? The study models a weekday
-    commute from every one of <b id="hEd"></b> Electoral Divisions in 15 counties to 14 higher-education
-    campuses, by public transport and by car, for the <b id="hCoh"></b> people aged 17 to 19 who live there.</p>
+    commute from every one of <b id="hEd"></b> Electoral Divisions across Leinster (except Wexford) and Monaghan
+    to 14 higher-education campuses, by public transport and by car, for the <b id="hCoh"></b> people aged 17 to 19 who live there.</p>
   <div class="answer" id="answer"></div>
   <div class="tiles" id="tiles"></div>
   <h2>Where would you like to start?</h2>
@@ -524,8 +524,9 @@ function methodsInit(){
     <p><b>The question.</b> How long, how costly and how carbon-heavy is the daily journey from home to a higher-education
     campus for the young people of Leinster, and does it shape where they enrol? The study measures <i>potential</i>
     accessibility, the journey a student could make, and then tests it against where students actually went.</p>
-    <p><b>Where.</b> Fifteen counties: the four Dublin council areas, Kildare, Meath, Wicklow, Westmeath, Longford, Offaly,
-    Laois, Louth, Monaghan, Carlow and Kilkenny. <b>Who.</b> ${fmt(T.eds.length)} Electoral Divisions, each represented by its
+    <p><b>Where.</b> Fifteen county areas: the four Dublin council areas (Dublin City, D&uacute;n Laoghaire-Rathdown, Fingal and
+    South Dublin), Kildare, Meath, Wicklow, Westmeath, Longford, Offaly, Laois, Louth, Carlow, Kilkenny and Monaghan. That is
+    all of Leinster except Wexford, plus Monaghan in Ulster. <b>Who.</b> ${fmt(T.eds.length)} Electoral Divisions, each represented by its
     population-weighted centre (from Census 2022 Small Areas) and weighted by its 17 to 19 year olds, the college-entry
     cohort: ${fmt(H.cohort)} people in all. Because the census counts third-level students at their term-time address, its
     18 and 19 year olds cluster beside campuses (Rathfarnham, beside UCD's residences, has 724 aged 18 to 19 against 99 aged
@@ -612,7 +613,7 @@ function methodsInit(){
     `<tr><td class="l" style="white-space:normal">${s[0]}</td><td class="l" style="white-space:normal">${s[1]}</td><td class="l">${s[2]}</td><td class="l" style="white-space:normal">${s[3]}</td></tr>`).join("");
   document.getElementById("verTbl").innerHTML = [
     ["Phase 1 to 2", "Aug 2026", "Pilot: 18 towns, then 584 Electoral Divisions in Dublin and the commuter counties, public transport only"],
-    ["Phase 3", "Aug 2026", "1,197 Electoral Divisions in 15 counties, 14 campuses, car mode, two timetables, commuter coaches, schools"],
+    ["Phase 3", "Aug 2026", "1,197 Electoral Divisions in 15 county areas, 14 campuses, car mode, two timetables, commuter coaches, schools"],
     ["Cost and emissions", "Sep 2026", "Annual commute cost (January 2027 fares) and CO₂ by mode"],
     ["Phase 4a", "Aug to Sep 2026", "County-scale enrolment model, eight fields of study"],
     ["Corrections", "2 Oct 2026", "Commuter-coach fare catchment widened to every stop; Dún Laoghaire-Rathdown added to the Dublin fare zone"],

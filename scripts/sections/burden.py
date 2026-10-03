@@ -72,7 +72,7 @@ MAIN = """
   Education Authority uses for its socio-economic profiles of students. Does college sit further away, and cost more to
   reach, for young people from disadvantaged areas?</p>
 <div class="controls"><label>Areas <select id="b-area">
-  <option value="all">All 15 counties</option><option value="dub">Dublin (four council areas)</option>
+  <option value="all">All 15 county areas</option><option value="dub">Dublin (four council areas)</option>
   <option value="out">Outside Dublin</option></select></label>
   <label>Map colour <select id="b-depMap"><option value="band">Deprivation band</option>
   <option value="time">Public-transport time</option></select></label></div>

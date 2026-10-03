@@ -10,8 +10,8 @@
 
 How long does the weekday journey to college take from each part of Leinster, by public transport and by car? What
 does it cost, what does it emit, who carries the heaviest burden, and does it shape where students enrol? The study
-models realistic commutes from 1,197 Electoral Divisions in 15 counties to 14 higher-education campuses, at two times
-of day, and compares the result with census journeys and with where new entrants actually went.
+models realistic commutes from 1,197 Electoral Divisions across Leinster (except Wexford) and County Monaghan to 14
+higher-education campuses, at two times of day, and compares the result with census journeys and with where new entrants actually went.
 
 - **Read the report:** https://jkeatingmu.github.io/commuting-to-college/
 - **Cite it:** see [How to cite](#how-to-cite) and `CITATION.cff`
