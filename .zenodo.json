@@ -1,0 +1,21 @@
+{
+  "title": "Commuting to College: Accessibility, Cost, Emissions and Choice for Higher Education in Leinster",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "imprint_publisher": "Maynooth University",
+  "creators": [
+    {
+      "name": "Keating, John G.",
+      "affiliation": "Maynooth University",
+      "orcid": "0000-0002-5063-2773"
+    }
+  ],
+  "description": "<p>Models weekday commutes by public transport and by car from 1,197 Electoral Divisions in 15 Leinster counties to 14 higher-education campuses, at two times of day, with the annual cost and carbon of each journey, its distribution by area deprivation and car availability, a validation against Census 2022 journeys, and a county-scale model of whether accessibility predicts where new entrants enrol.</p><p>Read the report: <a href=\"https://jkeatingmu.github.io/commuting-to-college/\">https://jkeatingmu.github.io/commuting-to-college/</a>. Code, data and documentation: <a href=\"https://github.com/JKeatingMU/commuting-to-college\">github.com/JKeatingMU/commuting-to-college</a>.</p><p>Individual research and analysis by John G. Keating; not an official Maynooth University publication. This work received no funding.</p>",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": ["higher education", "accessibility", "commuting", "public transport", "Ireland", "student choice"],
+  "notes": "Licences: code MIT; report and documentation CC BY 4.0; derived data tables ODbL 1.0; inputs under their publishers' CC BY 4.0 licences. See DATA-LICENCE.md in the archive.",
+  "related_identifiers": [
+    {"identifier": "https://jkeatingmu.github.io/commuting-to-college/", "relation": "isDocumentedBy", "resource_type": "publication-report", "scheme": "url"}
+  ]
+}
